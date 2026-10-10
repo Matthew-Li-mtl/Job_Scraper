@@ -1,16 +1,12 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-10-09 20:57 UTC*
+*Last updated: 2026-10-10 20:06 UTC*
 
-**3 new role(s)** since last run · 7 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 5 total in recent GovernmentJobs postings
 
-### [Environmental Health Manager](https://www.governmentjobs.com/jobs/5502861-0/environmental-health-manager) — County of Mendocino
-- 📍 **Location:** Ukiah, CA
-- 💰 **Salary:** $97,032.00 - $117,936.00 Annually
+### [Environmental Specialist (Quality Assurance/Sampling)](https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling) — Orange County Sanitation District
+- 📍 **Location:** CA 92708, CA
+- 💰 **Salary:** $110,718.40 - $134,617.60 Annually
 
-### [Hazardous Materials Operations Specialist](https://www.governmentjobs.com/jobs/5502826-0/hazardous-materials-operations-specialist) — County of Mendocino
-- 📍 **Location:** Ukiah, CA
-- 💰 **Salary:** $70,345.60 - $85,488.00 Annually
-
-### [Environmental Health Specialist I/II/III - Hazardous Materials/CUPA](https://www.governmentjobs.com/jobs/5463471-0/environmental-health-specialist-i-ii-iii-hazardous-materials-cupa) — Ventura County
-- 📍 **Location:** Ventura and may require travel throughout Ventura County, CA
-- 💰 **Salary:** $60,368.09 - $111,745.42 Annually
+### [Supervising Environmental Health Specialist](https://www.governmentjobs.com/jobs/5501802-0/supervising-environmental-health-specialist) — County of Humboldt
+- 📍 **Location:** Eureka, CA
+- 💰 **Salary:** $35.28 - $45.27 Hourly

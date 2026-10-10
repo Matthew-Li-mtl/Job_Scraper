@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-09 20:57 UTC",
+  "scraped_at": "2026-10-10 20:06 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Sunnyvale",
@@ -31,15 +31,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Sunnyvale",
-      "title": "Water Pollution Control Plant Mechanic",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/sunnyvale/job-20783377",
-      "date_posted": "",
-      "salary": "$52.72-$67.28 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
