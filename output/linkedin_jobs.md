@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-14 08:10 UTC*
+*Last updated: 2026-10-14 20:25 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Hazardous Materials and Waste Manager](https://www.linkedin.com/jobs/view/4479277060/) — University of California, Santa Cruz
-- 📍 **Location:** Santa Cruz County, CA
-- 💰 **Salary:** $100,100 - $107,674/annually
+### [Environmental Health Specialist II](https://www.linkedin.com/jobs/view/4478479904/) — Forensic Analytical Consulting Services, Inc.
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $32.00/hr - $38.00/hr
 - 🕒 **Posted:** 2026-10-14
