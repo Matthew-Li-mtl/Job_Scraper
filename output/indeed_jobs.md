@@ -1,18 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-16 06:26 UTC*
+*Last updated: 2026-10-17 21:09 UTC*
 
-**2 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-### [Water Resources Planner / Scientist](https://www.indeed.com/viewjob?jk=f659edbd28a14f88) — Rincon Consultants
-- 📍 **Location:** Sacramento, CA, USA
-- 💰 **Salary:** $70k–$95k/yr
+### [Environmental Health Specialist I/II](https://www.indeed.com/viewjob?jk=7af35c1093b79b52) — County of San Luis Obispo
+- 📍 **Location:** San Luis Obispo, CA, USA
+- 💰 **Salary:** $74k–$110k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-16
-
-### [Groundwater & Water Resources Project Manager](https://www.indeed.com/viewjob?jk=eaa8152b671a7284) — Rincon Consultants
-- 📍 **Location:** Sacramento, CA, USA
-- 💰 **Salary:** $100k–$125k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-16
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-17
