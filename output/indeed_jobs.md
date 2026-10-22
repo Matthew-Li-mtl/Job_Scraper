@@ -1,30 +1,58 @@
 # 🟦 Indeed — Software Engineering Roles
-*Last updated: 2026-10-21 22:45 UTC*
+*Last updated: 2026-10-22 00:55 UTC*
 
-**4 new role(s)** since last run · 25 total in last 24h
+**8 new role(s)** since last run · 29 total in last 24h
 
-### [Software Test Engineer 2/3 (AHT)](https://www.indeed.com/viewjob?jk=292fdc8426db4db1) — Northrop Grumman
+### [Software Engineer, Backend & Data](https://www.indeed.com/viewjob?jk=baa80636ca977446) — Vital Lyfe
 - 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $83k–$125k/yr
+- 💰 **Salary:** $120k–$150k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-21
-
-### [Sr Product Software Engineer, Android](https://www.indeed.com/viewjob?jk=bbc8ece5e047a6ac) — Disney Entertainment & Sports LLC
-- 📍 **Location:** Santa Monica, CA, USA
-- 💰 **Salary:** $144k–$202k/yr
-- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** 2026-10-22
 
-### [Cloud Services Software Engineer](https://www.indeed.com/viewjob?jk=2a3852404d6c8626) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $152k–$288k/yr
+### [Software Engineer III](https://www.indeed.com/viewjob?jk=1145e407b1239308) — Granum
+- 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $135k–$160k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-21
 
-### [Backend Engineer](https://www.indeed.com/viewjob?jk=d90ff5caee98ffb7) — Deepshot Labs
+### [Software Engineer II - Fulfillments Team](https://www.indeed.com/viewjob?jk=a4b69c44fdd1f0bf) — Extend
 - 📍 **Location:** Remote, USA
+- 💰 **Salary:** $140k–$160k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-21
+
+### [Full Stack Developer (MUMPS)](https://www.indeed.com/viewjob?jk=6725d9cc00765038) — Syms Strategic Group, LLC (SSG)
+- 📍 **Location:** Charleston, WV, USA
+- 💰 **Salary:** $85k–$117k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Full Stack Developer (Production)](https://www.indeed.com/viewjob?jk=373a70e04f0155c3) — Syms Strategic Group, LLC (SSG)
+- 📍 **Location:** Mobile, AL, USA
+- 💰 **Salary:** $85k–$117k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Full Stack Developer (Edifecs)](https://www.indeed.com/viewjob?jk=49d965ef220d7899) — Syms Strategic Group, LLC (SSG)
+- 📍 **Location:** Charleston, WV, USA
+- 💰 **Salary:** $85k–$117k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Full Stack Developer (Solutions Architecture)](https://www.indeed.com/viewjob?jk=093b449be7b8ec06) — Syms Strategic Group, LLC (SSG)
+- 📍 **Location:** Frederick, MD, USA
+- 💰 **Salary:** $110k–$127k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-21
+
+### [Full Stack Developer](https://www.indeed.com/viewjob?jk=f5bcdcabc97b4c99) — Guidehouse
+- 📍 **Location:** Washington, DC, USA
+- 💰 **Salary:** $80k–$133k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-21
