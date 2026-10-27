@@ -1,0 +1,44 @@
+name: "Trigger All Scrapers"
+
+on:
+  workflow_dispatch: # Gives you a single manual "Run all" button
+  schedule:
+    - cron: "27 16-23,0-3 * * *" # Takes over the automated schedule for everything
+
+jobs:
+  trigger-scrapers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Scrapers Simultaneously
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.SYNC_TOKEN }}
+          script: |
+            // 1. List the exact filenames of your 15 scraper workflows here:
+            const workflows = [
+              "scraper_one.yml",
+              "scraper_two.yml",
+              "amazon_scraper.yml",
+              "linkedin_scraper.yml"
+            ];
+
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const ref = context.ref;
+
+            console.log(`Starting massive dispatch for ${workflows.length} workflows...`);
+
+            // 2. Fire them all off in parallel instantly
+            await Promise.all(workflows.map(async (workflowId) => {
+              try {
+                await github.rest.actions.createWorkflowDispatch({
+                  owner,
+                  repo,
+                  workflow_id: workflowId,
+                  ref,
+                });
+                console.log(`✅ Successfully triggered: ${workflowId}`);
+              } catch (error) {
+                console.error(`❌ Failed to trigger ${workflowId}:`, error.message);
+              }
+            }));
