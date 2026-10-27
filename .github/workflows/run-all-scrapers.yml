@@ -1,9 +1,9 @@
-name: "Trigger All Scrapers"
+name: "🚀 Trigger All Scrapers"
 
 on:
-  workflow_dispatch: # Gives you a single manual "Run all" button
+  workflow_dispatch: # Allows you to fire all 15 scrapers instantly with one click
   schedule:
-    - cron: "27 16-23,0-3 * * *" # Takes over the automated schedule for everything
+    - cron: "27 16-23,0-3 * * *" # Consolidates your scheduling into a single reliable trigger
 
 jobs:
   trigger-scrapers:
@@ -14,21 +14,30 @@ jobs:
         with:
           github-token: ${{ secrets.SYNC_TOKEN }}
           script: |
-            // 1. List the exact filenames of your 15 scraper workflows here:
             const workflows = [
-              "scraper_one.yml",
-              "scraper_two.yml",
-              "amazon_scraper.yml",
-              "linkedin_scraper.yml"
+              "calcareers_watch.yml",
+              "csucareers_watch.yml",
+              "evals.yml",
+              "glassdoor_watch.yml",
+              "google_jobs_watch.yml",
+              "hiringcafe_watch.yml",
+              "indeed_watch.yml",
+              "linkedin_backfill.yml",
+              "linkedin_watch.yml",
+              "linkedin_watch_backup.yml",
+              "localgov_watch.yml",
+              "scrape_jobs.yml",
+              "tests.yml",
+              "usajobs_watch.yml",
+              "ziprecruiter_watch.yml"
             ];
 
             const owner = context.repo.owner;
             const repo = context.repo.repo;
             const ref = context.ref;
 
-            console.log(`Starting massive dispatch for ${workflows.length} workflows...`);
+            console.log(`Starting parallel execution for ${workflows.length} workflows...`);
 
-            // 2. Fire them all off in parallel instantly
             await Promise.all(workflows.map(async (workflowId) => {
               try {
                 await github.rest.actions.createWorkflowDispatch({
