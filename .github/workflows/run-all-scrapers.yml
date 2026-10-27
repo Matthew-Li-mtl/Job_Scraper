@@ -1,9 +1,9 @@
 name: "🚀 Trigger All Scrapers"
 
 on:
-  workflow_dispatch: # Allows you to fire all 15 scrapers instantly with one click
+  workflow_dispatch: 
   schedule:
-    - cron: "27 16-23,0-3 * * *" # Consolidates your scheduling into a single reliable trigger
+    - cron: "27 16-23,0-3 * * *"
 
 jobs:
   trigger-scrapers:
@@ -14,22 +14,23 @@ jobs:
         with:
           github-token: ${{ secrets.SYNC_TOKEN }}
           script: |
+            // Explicitly appending the absolute directory path to each workflow file
             const workflows = [
-              "calcareers_watch.yml",
-              "csucareers_watch.yml",
-              "evals.yml",
-              "glassdoor_watch.yml",
-              "google_jobs_watch.yml",
-              "hiringcafe_watch.yml",
-              "indeed_watch.yml",
-              "linkedin_backfill.yml",
-              "linkedin_watch.yml",
-              "linkedin_watch_backup.yml",
-              "localgov_watch.yml",
-              "scrape_jobs.yml",
-              "tests.yml",
-              "usajobs_watch.yml",
-              "ziprecruiter_watch.yml"
+              ".github/workflows/calcareers_watch.yml",
+              ".github/workflows/csucareers_watch.yml",
+              ".github/workflows/evals.yml",
+              ".github/workflows/glassdoor_watch.yml",
+              ".github/workflows/google_jobs_watch.yml",
+              ".github/workflows/hiringcafe_watch.yml",
+              ".github/workflows/indeed_watch.yml",
+              ".github/workflows/linkedin_backfill.yml",
+              ".github/workflows/linkedin_watch.yml",
+              ".github/workflows/linkedin_watch_backup.yml",
+              ".github/workflows/localgov_watch.yml",
+              ".github/workflows/scrape_jobs.yml",
+              ".github/workflows/tests.yml",
+              ".github/workflows/usajobs_watch.yml",
+              ".github/workflows/ziprecruiter_watch.yml"
             ];
 
             const owner = context.repo.owner;
