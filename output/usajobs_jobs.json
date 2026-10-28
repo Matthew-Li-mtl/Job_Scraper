@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-30 20:17 UTC",
+  "scraped_at": "2026-10-28 20:35 UTC",
   "total": 6,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -58,33 +58,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Meade, South Dakota",
-      "url": "https://www.usajobs.gov/job/886894600",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Secretary of Defense",
-      "title": "Environmental Protection Specialist",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/886451200",
-      "date_posted": "2026-09-28",
-      "salary": "Starting at $143,913 Per year (NH 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "National Oceanic and Atmospheric Administration",
-      "title": "Fish Biologist - Fieldwork and Environmental Compliance Coordinator",
-      "location": "Miami, Florida",
-      "url": "https://www.usajobs.gov/job/886640600",
-      "date_posted": "2026-09-29",
-      "salary": "Starting at $74,678 Per year (ZP 3-4)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
