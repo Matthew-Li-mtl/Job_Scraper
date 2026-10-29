@@ -1,5 +1,5 @@
 # 🏛 NEOGOV — State & Local Government Software Engineering Roles
-*Last updated: 2026-10-28 21:11 UTC*
+*Last updated: 2026-10-29 21:15 UTC*
 
 **0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
