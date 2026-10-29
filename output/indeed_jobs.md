@@ -1,146 +1,122 @@
 # 🟦 Indeed — Software Engineering Roles
-*Last updated: 2026-10-28 20:37 UTC*
+*Last updated: 2026-10-29 00:28 UTC*
 
-**22 new role(s)** since last run · 35 total in last 24h
+**18 new role(s)** since last run · 38 total in last 24h
 
-### [2027 Software Engineer Intern - Azusa CA](https://www.indeed.com/viewjob?jk=3c6d36648e30bb4e) — Northrop Grumman
-- 📍 **Location:** Azusa, CA, USA
-- 💰 **Salary:** $21.50–$41/hr
-- **Work mode:** On-site
-- **Job type:** fulltime, internship
-- 🕒 **Posted:** 2026-10-28
-
-### [Modeling Simulation Software Engineer](https://www.indeed.com/viewjob?jk=4344dacef165d679) — Space Systems Integration
-- 📍 **Location:** El Segundo, CA, USA
-- 💰 **Salary:** $140k–$210k/yr
+### [Walt Disney Animation Studios Full Stack Web Development Intern, Summer 2027](https://www.indeed.com/viewjob?jk=83c2f80db0cc4ca9) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [2027 Associate Software Engineer/Software Engineer](https://www.indeed.com/viewjob?jk=c94a78a7170f924e) — Northrop Grumman
-- 📍 **Location:** Palmdale, CA, USA
-- 💰 **Salary:** $62k–$138k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-28
-
-### [Junior Software Engineer](https://www.indeed.com/viewjob?jk=270aeca6ae9724c3) — Trinzic
-- 📍 **Location:** El Segundo, CA, USA
-- 💰 **Salary:** $83k–$88k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=a3c12b67de78433b) — MELISSA
+- 📍 **Location:** Rancho Santa Margarita, CA, USA
+- 💰 **Salary:** $40k–$80k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [Automation Engineer](https://www.indeed.com/viewjob?jk=a771d1fa9fa0fea1) — CBRE
-- 📍 **Location:** Long Beach, CA, USA
-- 💰 **Salary:** $57.86–$64.29/hr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=dcbc61e15ece79c1) — JohnHart Real Estate
+- 📍 **Location:** La Crescenta, CA, USA
+- 💰 **Salary:** $90k–$110k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [2027 Associate Software Engineer - Azusa CA](https://www.indeed.com/viewjob?jk=280a3bdd466924c0) — Northrop Grumman
-- 📍 **Location:** Azusa, CA, USA
-- 💰 **Salary:** $76k–$114k/yr
+### [Software Engineer II (Full-Stack, AI)](https://www.indeed.com/viewjob?jk=8cadb4c83cbbae52) — Sweet James LLP
+- 📍 **Location:** Newport Beach, CA, USA
+- 💰 **Salary:** $130k–$165k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-28
 
-### [Internship, Software Engineer](https://www.indeed.com/viewjob?jk=dea8947ac3eda3ad) — VSP Vision
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $26.50–$32.50/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+### [Software Engineer III (Full-Stack, AI)](https://www.indeed.com/viewjob?jk=c2e81fd426e2db18) — Sweet James LLP
+- 📍 **Location:** Newport Beach, CA, USA
+- 💰 **Salary:** $165k–$200k/yr
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-28
 
-### [Internship, Software Engineer](https://www.indeed.com/viewjob?jk=89d4054593263f5f) — VSP Vision
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $26.50–$32.50/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-28
-
-### [Internship, Software Engineer](https://www.indeed.com/viewjob?jk=bde7b5a4990d6620) — VSP Vision
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $26.50–$32.50/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-28
-
-### [Software Engineer III](https://www.indeed.com/viewjob?jk=e49c2601d589a910) — Grainger
-- 📍 **Location:** Lake Forest, IL, USA
-- 💰 **Salary:** $104k–$174k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-28
-
-### [Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)](https://www.indeed.com/viewjob?jk=c14dc93447c5c165) — SimpleTiger
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $20–$30/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-28
-
-### [Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=244b3896325c3057) — Veta Virtual
-- 📍 **Location:** Remote, USA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-28
-
-### [Junior Full Stack Developer (Remote)](https://www.indeed.com/viewjob?jk=2d6a32cc9ef22722) — Halvik
-- 📍 **Location:** McLean, VA, USA
-- 💰 **Salary:** $100k–$110k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-28
-
-### [Software Engineer III $90,000- $120,000 Missoula/Hybrid/Remote](https://www.indeed.com/viewjob?jk=aa1e931f42844af6) — ELM Utility Services
-- 📍 **Location:** Missoula, MT, USA
-- 💰 **Salary:** $90k–$120k/yr
+### [Full Stack Web Developer](https://www.indeed.com/viewjob?jk=ee287472846901ca) — Coaster Company of America
+- 📍 **Location:** Santa Fe Springs, CA, USA
+- 💰 **Salary:** $45–$48/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer - Infrastructure (Technical Leadership)](https://www.indeed.com/viewjob?jk=d9e1da401d6db250) — Meta
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $271k–$347k/yr
-- **Work mode:** Remote in-state eligible
+### [DevOps / Backend Engineer (Junior to Mid-Level) – Egofold](https://www.indeed.com/viewjob?jk=097f80bfb6c5e545) — Snail Games USA
+- 📍 **Location:** Culver City, CA, USA
+- 💰 **Salary:** $110k–$145k/yr
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-28
 
-### [Sr. Software Engineer - Sensor, macOS (Hybrid)](https://www.indeed.com/viewjob?jk=85f7e057cf51c165) — CrowdStrike
+### [Application Developer](https://www.indeed.com/viewjob?jk=d125d40832271c4e) — California Institute of Technology
+- 📍 **Location:** Pasadena, CA, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-28
+
+### [Software Engineering Intern](https://www.indeed.com/viewjob?jk=08fd837afc226cbe) — Deltek
+- 📍 **Location:** Herndon, VA, USA
+- 💰 **Salary:** $20–$22/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-28
+
+### [Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=c73ac19164c0121c) — Doowii
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $140k–$220k/yr
+- 💰 **Salary:** $130k–$165k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer, Back-End - Mail (US)](https://www.indeed.com/viewjob?jk=6f77e856475a785e) — Superhuman
+### [Software Engineer 6 - Feature Infrastructure](https://www.indeed.com/viewjob?jk=ffdafe846e0ece64) — Netflix
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $154k–$214k/yr
+- 💰 **Salary:** $600k–$1066k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-28
+
+### [Frontend Developer](https://www.indeed.com/viewjob?jk=31a23911842cfb9a) — Network Wireless Solutions
+- 📍 **Location:** Myrtle Point, OR, USA
+- 💰 **Salary:** $110k–$130k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer (Technical Leadership) - Central Security](https://www.indeed.com/viewjob?jk=94a2b4520953b8ee) — Meta
+### [Software Developer](https://www.indeed.com/viewjob?jk=78774a1131b4f713) — RTX
+- 📍 **Location:** Hartford, CT, USA
+- 💰 **Salary:** $108k–$204k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-28
+
+### [Machine Learning Engineer 2](https://www.indeed.com/viewjob?jk=ddef512ceba171d1) — Twilio
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $219k–$301k/yr
+- 💰 **Salary:** $129k–$170k/yr
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer Embedded Linux](https://www.indeed.com/viewjob?jk=ebe4a5388c80be89) — Guntner US
+### [Software Engineer - Host Networking](https://www.indeed.com/viewjob?jk=f2ec52f7604e768c) — Meta
 - 📍 **Location:** Remote, USA
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-27
-
-### [Full Stack Developer](https://www.indeed.com/viewjob?jk=b3551ac96ebb2dc5) — General Dynamics Information Technology
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $111k–$150k/yr
+- 💰 **Salary:** $184k–$257k/yr
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-28
 
-### [Sr. AI Software Engineer (Remote)](https://www.indeed.com/viewjob?jk=81d8ae9b2933b961) — Inspira Financial
-- 📍 **Location:** Oak Brook, IL, USA
-- 💰 **Salary:** $100k–$140k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=681d6c3abb445766) — CACI International
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $63k–$130k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer Embedded Linux](https://www.indeed.com/viewjob?jk=a07e0ad204ab8302) — Guntner US
+### [Software Engineer - Special Projects and Innovation](https://www.indeed.com/viewjob?jk=918fd1d6dfd5ed32) — Smart Tech Contracting, LLC
 - 📍 **Location:** Remote, USA
+- 💰 **Salary:** $100k–$120k/yr
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-27
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-28
+
+### [Application Developer](https://www.indeed.com/viewjob?jk=4f260c5d44750d86) — Reyes Holdings
+- 📍 **Location:** Rosemont, IL, USA
+- 💰 **Salary:** $87k–$109k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-28
