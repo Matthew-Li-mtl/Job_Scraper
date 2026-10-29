@@ -1,90 +1,139 @@
 # 🟦 Indeed — Software Engineering Roles
-*Last updated: 2026-10-29 06:41 UTC*
+*Last updated: 2026-10-29 20:44 UTC*
 
-**14 new role(s)** since last run · 46 total in last 24h
+**21 new role(s)** since last run · 40 total in last 24h
 
-### [Sr Platform Engineer - Backend](https://www.indeed.com/viewjob?jk=61253230c2dc7a5a) — Baker Tilly Canada
-- 📍 **Location:** Woodland Hills, CA, USA
+### [Software Engineer III, Front End](https://www.indeed.com/viewjob?jk=11362638eb7cedf6) — Google
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $147k–$210k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Sr Machine Learning Engineer](https://www.indeed.com/viewjob?jk=f7b3f1f3c59f281b) — Disney Entertainment & Sports LLC
+- 📍 **Location:** Santa Monica, CA, USA
+- 💰 **Salary:** $144k–$193k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Specialist, Software Engineering - Real-time Embedded GPS](https://www.indeed.com/viewjob?jk=0455fa1147fc997d) — L3Harris
+- 📍 **Location:** Yorba Linda, CA, USA
+- 💰 **Salary:** $97k–$180k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-29
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=cb3aba968ead6ebb) — Luna Innovations Incorporated
+- 📍 **Location:** Chino, CA, USA
+- 💰 **Salary:** $128k–$165k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Sr Platform Engineer - Backend](https://www.indeed.com/viewjob?jk=955558e933b57658) — Baker Tilly Canada
+- 📍 **Location:** Pasadena, CA, USA
 - 💰 **Salary:** $150k–$225k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-29
 
-### [Software Engineer, Test Infrastructure (AI DevEx)](https://www.indeed.com/viewjob?jk=30bd46ca25c6ce91) — Sift Stack, Inc.
-- 📍 **Location:** Marina del Rey, CA, USA
-- 💰 **Salary:** $180k–$230k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=a74cef8e45a6f8bd) — Glidewell Laboratories
-- 📍 **Location:** Irvine, CA, USA
-- 💰 **Salary:** $113k–$115k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Software Engineer I - Remote - Nationwide](https://www.indeed.com/viewjob?jk=df5234a91bf9977d) — Vituity
-- 📍 **Location:** Sacramento, CA, USA
-- 💰 **Salary:** $70k–$87k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [MUMPS Software Engineer](https://www.indeed.com/viewjob?jk=a278997ef1f81cd7) — Technatomy Corporation
+### [Software Engineer (Electron.js)](https://www.indeed.com/viewjob?jk=9911e19d7027e2a2) — micro1
 - 📍 **Location:** Remote, USA
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-29
 
-### [Software Developer (100% Remote)](https://www.indeed.com/viewjob?jk=56589689ac7e155e) — ClearCaptions, LLC
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $111k–$125k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-29
-
-### [Software Test Engineer](https://www.indeed.com/viewjob?jk=b99db8294349a07f) — WCG Clinical
+### [Software Test Engineer](https://www.indeed.com/viewjob?jk=9dd5bc4978b22a82) — Chemtrade
 - 📍 **Location:** Remote, USA
 - 💰 **Salary:** $52k–$95k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-28
+- 🕒 **Posted:** 2026-10-29
 
-### [Backend Software Engineer - Identity](https://www.indeed.com/viewjob?jk=5c6a7b7ba001ec16) — Atlassian
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $197k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-28
-
-### [Backend Software Engineer - Focus Funds and AI](https://www.indeed.com/viewjob?jk=21f561ef1755b0e2) — Atlassian
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $227k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-28
-
-### [Software Engineer Sr Stf - E5](https://www.indeed.com/viewjob?jk=aaeb0b01b97559b9) — Lockheed Martin
+### [Journeyman Software Developer, Access Control](https://www.indeed.com/viewjob?jk=9dc785bc6f68c853) — Amentum
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $134k–$344k/yr
+- 💰 **Salary:** $130k–$170k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-28
+- 🕒 **Posted:** 2026-10-29
 
-### [Front-End Web Developer](https://www.indeed.com/viewjob?jk=58b8ba26d21c57b8) — B-Line Express
-- 📍 **Location:** Washington, DC, USA
+### [Test Automation Engineer](https://www.indeed.com/viewjob?jk=29a8c3c4675b4b2b) — BV Teck
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $70k–$90k/yr
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-28
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
 
-### [Software Developer III](https://www.indeed.com/viewjob?jk=a89aa053dfc1743d) — Lynxspring
+### [Software Engineer III, Cloud Foundations](https://www.indeed.com/viewjob?jk=7cddc02dbde6dc93) — GitHub
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $108k–$286k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Platform Automation Engineer](https://www.indeed.com/viewjob?jk=46371c78f227417e) — BV Teck
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $100k–$150k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Network Systems Automation Engineer](https://www.indeed.com/viewjob?jk=027175673952c056) — BV Teck
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $100k–$150k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=13861d73c940fb70) — Banyan Software
+- 📍 **Location:** Austin, TX, USA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-29
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=d6a2463a10eb9baf) — Gama-1 Technologies
 - 📍 **Location:** Remote, USA
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-29
 
-### [Sr. Software Developer - Android (100% Remote)](https://www.indeed.com/viewjob?jk=8bad68992ed53a52) — ClearCaptions, LLC
+### [Test Automation Engineer](https://www.indeed.com/viewjob?jk=da189dd60da4e90a) — Halvik
+- 📍 **Location:** McLean, VA, USA
+- 💰 **Salary:** $110k–$140k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Sr. Software Engineer (.NET), Communications](https://www.indeed.com/viewjob?jk=8ecbf56fa75952f1) — DriveCentric
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $128k–$144k/yr
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-29
 
-### [Palantir Foundry Application Developer](https://www.indeed.com/viewjob?jk=08dfd93f3a7d32c7) — The Baer Group
-- 📍 **Location:** Arlington, VA, USA
+### [Software Engineer (Remote)](https://www.indeed.com/viewjob?jk=bc1f43d4a8df2ee8) — m3usa
+- 📍 **Location:** Creve Coeur, MO, USA
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-28
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Software Engineer (.NET) - US](https://www.indeed.com/viewjob?jk=0483d12c87567b29) — mSupply
+- 📍 **Location:** Remote, USA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-29
+
+### [Software Engineer III — Evaluation](https://www.indeed.com/viewjob?jk=59dba012a6e18888) — Education Advanced, Inc.
+- 📍 **Location:** Tyler, TX, USA
+- 💰 **Salary:** $135k–$155k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Insurance Software Developer](https://www.indeed.com/viewjob?jk=eb1616a482d58c57) — BV Teck
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $100k–$150k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Software Engineer - (RPA/Computer Vision)](https://www.indeed.com/viewjob?jk=1622732317bb9238) — Curotec
+- 📍 **Location:** Bismarck, ND, USA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
