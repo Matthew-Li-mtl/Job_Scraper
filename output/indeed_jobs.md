@@ -1,130 +1,119 @@
 # 🟦 Indeed — Software Engineering Roles
-*Last updated: 2026-10-30 06:57 UTC*
+*Last updated: 2026-10-30 20:18 UTC*
 
-**20 new role(s)** since last run · 36 total in last 24h
+**17 new role(s)** since last run · 42 total in last 24h
 
-### [Frontend Developer](https://www.indeed.com/viewjob?jk=30276e6487dc75a2) — Wilverwater Digital Solutions
-- 📍 **Location:** Santa Ana, CA, USA
-- 💰 **Salary:** $115k–$125k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
-
-### [Software Engineer, Augmented Reality, Level 4](https://www.indeed.com/viewjob?jk=2034fd301aa1408a) — Snap Inc.
+### [Sr. Software Engineer, Agents](https://www.indeed.com/viewjob?jk=78dd1813f990a59f) — Plug Technologies Inc
 - 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $133k–$235k/yr
+- 💰 **Salary:** $175k–$200k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Software Engineer, Sensing Systems](https://www.indeed.com/viewjob?jk=b70af1cc417a628f) — CHAOS Industries
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $154k–$211k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [Web Developer I](https://www.indeed.com/viewjob?jk=d7e3f7f44afc43a8) — California State Polytechnic University Pomona
-- 📍 **Location:** Pomona, CA, USA
-- 💰 **Salary:** $5787–$8430/mo
+### [Cyber Software Engineer II](https://www.indeed.com/viewjob?jk=93a1383f1184aff6) — Collins Aerospace
+- 📍 **Location:** Anaheim, CA, USA
+- 💰 **Salary:** $76k–$144k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Embedded Linux Software Engineer](https://www.indeed.com/viewjob?jk=1b409f34d1bc7ec9) — Impulse Space
-- 📍 **Location:** Redondo Beach, CA, USA
-- 💰 **Salary:** $120k–$180k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
-
-### [Sr Product Software Engineer](https://www.indeed.com/viewjob?jk=87991a4dfdb12659) — Disney Entertainment & Sports LLC
-- 📍 **Location:** Glendale, CA, USA
-- 💰 **Salary:** $144k–$193k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
-
-### [.NET Full Stack Developer](https://www.indeed.com/viewjob?jk=e9d9b7eab7261812) — Robotics Technologies
-- 📍 **Location:** Rancho Cucamonga, CA, USA
+### [GenAI Software Engineer](https://www.indeed.com/viewjob?jk=2c5b3f5b83795f48) — Robotics Technologies
+- 📍 **Location:** Woodland Hills, CA, USA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-30
 
-### [Software Engineer, Platform (Early Career)](https://www.indeed.com/viewjob?jk=335430e419f07f1c) — Northwood Space
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $123k–$140k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Software Developer](https://www.indeed.com/viewjob?jk=78936e2979b20904) — Fox Corporation
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $189k–$208k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=17dc5ffda5ef83c0) — Uniti
+### [Software Engineer Intern](https://www.indeed.com/viewjob?jk=c433a3c5f03185f5) — WEX Inc.
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $67k–$88k/yr
+- 💰 **Salary:** $27–$35/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, internship
+- 🕒 **Posted:** 2026-10-30
+
+### [Software Engineer - Cloud Platform - Remote](https://www.indeed.com/viewjob?jk=75c6388457340276) — Optum
+- 📍 **Location:** Eden Prairie, MN, USA
+- 💰 **Salary:** $73k–$130k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Software Engineer - Level 4](https://www.indeed.com/viewjob?jk=0aff88198dadebac) — Advanced Sciences and Technologies (AS&T)
-- 📍 **Location:** Pomona, NJ, USA
+### [Application Engineer CMX Intergration (HYBRID)](https://www.indeed.com/viewjob?jk=8cf2a5bbf7073492) — The Hanover Insurance Group
+- 📍 **Location:** Worcester, MA, USA
+- 💰 **Salary:** $82k–$103k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Software Engineer - Level 3](https://www.indeed.com/viewjob?jk=1f9f9c3197fb409b) — Advanced Sciences and Technologies (AS&T)
-- 📍 **Location:** Pomona, NJ, USA
+### [Software Engineer (Shop Pod)](https://www.indeed.com/viewjob?jk=abf498c9415322ba) — TransPerfect
+- 📍 **Location:** Austin, TX, USA
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Frontend Software Engineer](https://www.indeed.com/viewjob?jk=657506618aa5ffae) — Neuehealth
-- 📍 **Location:** Minneapolis, MN, USA
+### [C# Application Developer](https://www.indeed.com/viewjob?jk=0215a0b7285a77f2) — Gainwell Technologies LLC
+- 📍 **Location:** El Paso, TX, USA
+- 💰 **Salary:** $52k–$74k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Software Engineer - Level 1](https://www.indeed.com/viewjob?jk=c9ae27ca736ee8da) — Advanced Sciences and Technologies (AS&T)
-- 📍 **Location:** Pomona, NJ, USA
+### [Associate Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=604e04dc2790fc93) — Optum
+- 📍 **Location:** Eden Prairie, MN, USA
+- 💰 **Salary:** $60k–$107k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Junior Software Developer](https://www.indeed.com/viewjob?jk=666d38412ee64d5c) — Karthik Consulting
+### [PeopleSoft Application Developer](https://www.indeed.com/viewjob?jk=3d52ca1aa046e9ed) — BV Teck
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $80k–$110k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-30
+
+### [Software Developer II](https://www.indeed.com/viewjob?jk=bad1553c85e9cb49) — Karthik Consulting
 - 📍 **Location:** Montgomery, AL, USA
 - 💰 **Salary:** $120k–$130k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Front End Engineer](https://www.indeed.com/viewjob?jk=9888583cc0414f31) — Troveo AI
+### [Platform Engineer](https://www.indeed.com/viewjob?jk=5decf36a6f0113f4) — LMI
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $130k–$165k/yr
+- 💰 **Salary:** $101k–$175k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [AI/ML Software Engineer](https://www.indeed.com/viewjob?jk=6687b4849c7758f5) — Alpine SG
+### [Infrastructure Automation Engineer](https://www.indeed.com/viewjob?jk=a1adadb0f4b26c75) — BV Teck
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $200k–$250k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-30
-
-### [Data Engineer SSSSAI1339](https://www.indeed.com/viewjob?jk=8dfd96a4eaf613e8) — Sabree Software Services
-- 📍 **Location:** Chantilly, VA, USA
+- 💰 **Salary:** $100k–$150k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Cyber Defense Full Stack Engineer](https://www.indeed.com/viewjob?jk=beb2ffd9d999f8e6) — BAE Systems USA
-- 📍 **Location:** El Paso, TX, USA
-- 💰 **Salary:** $79k–$135k/yr
+### [DevSecOps Automation Engineer](https://www.indeed.com/viewjob?jk=1b295bcc62eef4e4) — Applied Information Sciences
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $90k–$137k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Software Engineering – Data Engineer (Python & Cloud Databases)](https://www.indeed.com/viewjob?jk=cec3f4e763945d86) — FICO
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $84k–$132k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-29
+
+### [Full stack Developer](https://www.indeed.com/viewjob?jk=44681bbc1b6c316f) — Newpage Digital Healthcare solutions
+- 📍 **Location:** Remote, USA
+- **Work mode:** Remote in-state eligible
+- **Job type:** contract
 - 🕒 **Posted:** 2026-10-30
 
-### [Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=f06de9c8ff78042d) — Dimensional Fund Advisors
-- 📍 **Location:** Austin, TX, USA
+### [Sitecore Application Developer](https://www.indeed.com/viewjob?jk=10e7fa5eb8ebc7e4) — BV Teck
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $100k–$150k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
