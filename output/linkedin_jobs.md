@@ -1,9 +1,17 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-10-31 23:35 UTC*
+*Last updated: 2026-11-01 02:37 UTC*
 
-**1 new role(s)** since last run · 5 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4485699027/) — Optum
-- 📍 **Location:** Eden Prairie, MN
-- 💰 **Salary:** $72,800 to $130,000 annually
-- 🕒 **Posted:** 2026-10-31
+### [AI First iOS Software Engineer (Remote)](https://www.linkedin.com/jobs/view/4485169930/) — OPENLANE
+- 📍 **Location:** Carmel, IN
+- 💰 **Salary:** $85,000.00 - $125,000.00 USD
+- 🕒 **Posted:** 2026-11-01
+
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4483969118/) — Domino's
+- 📍 **Location:** Ann Arbor, MI
+- 🕒 **Posted:** 2026-11-01
+
+### [React/Node.js Developer](https://www.linkedin.com/jobs/view/4485202336/) — Global Alliant Inc
+- 📍 **Location:** Rockville, MD
+- 🕒 **Posted:** 2026-11-01
