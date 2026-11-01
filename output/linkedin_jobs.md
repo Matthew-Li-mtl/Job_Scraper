@@ -1,415 +1,946 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-11-01 11:39 UTC*
+*Last updated: 2026-11-01 22:03 UTC*
 
-**86 new role(s)** since last run · 86 total in last 1h
+**190 new role(s)** since last run · 190 total in last 1h
 
-### [University, 2027 Summer Games Software Developer Intern - Colorado Springs, CO](https://www.linkedin.com/jobs/view/4460504527/) — Booz Allen Hamilton
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $52,900.00 to $108,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [University, 2027 Summer Games Software Developer Intern - Rome, NY](https://www.linkedin.com/jobs/view/4460509495/) — Booz Allen Hamilton
-- 📍 **Location:** Rome, NY
-- 💰 **Salary:** $52,900.00 to $108,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Automation Engineering Intern](https://www.linkedin.com/jobs/view/4469251849/) — Pieper Automation
-- 📍 **Location:** New Berlin, WI
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineering AMTS (College Grad)](https://www.linkedin.com/jobs/view/4450623260/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $114,400 - $153,000 annually
-- 🕒 **Posted:** 2026-11-01
-
-### [Student Web Developer & Content Specialist](https://www.linkedin.com/jobs/view/4478047382/) — ASU Enterprise Partners
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-11-01
-
-### [Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start](https://www.linkedin.com/jobs/view/4468064318/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $128000 - $316800 annually
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4460576060/) — Booz Allen Hamilton
-- 📍 **Location:** Rome, NY
-- 💰 **Salary:** $77,500.00 to $176,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4460385797/) — CosmoProf Beauty
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer II - Avionics Military FMS (Onsite)](https://www.linkedin.com/jobs/view/4450285333/) — Collins Aerospace
-- 📍 **Location:** Cedar Rapids, IA
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4432140395/) — Booz Allen Hamilton
-- 📍 **Location:** Beavercreek, OH
-- 💰 **Salary:** $69,300.00 to $158,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer, Storage](https://www.linkedin.com/jobs/view/4431899358/) — DoorDash
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,600—$192,000 USD
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer, Storage](https://www.linkedin.com/jobs/view/4431888443/) — DoorDash
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $130,600—$192,000 USD
-- 🕒 **Posted:** 2026-11-01
-
-### [Site Reliability Engineer II](https://www.linkedin.com/jobs/view/4392963327/) — Akamai Technologies
-- 📍 **Location:** Cambridge, MA
-- 💰 **Salary:** $95,000 - $171,000/year
-- 🕒 **Posted:** 2026-11-01
-
-### [Intern - IT Software Engineer](https://www.linkedin.com/jobs/view/4477209660/) — Micron Technology
-- 📍 **Location:** Boise, ID
-- 🕒 **Posted:** 2026-11-01
-
-### [CANES Platform Engineer](https://www.linkedin.com/jobs/view/4450364635/) — Scientific Research Corporation
-- 📍 **Location:** Norfolk, VA
-- 💰 **Salary:** $87,000.00/yr - $144,900.00/yr
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer III, Master Data Management](https://www.linkedin.com/jobs/view/4478047317/) — Ahold Delhaize USA
-- 📍 **Location:** Quincy, MA
-- 💰 **Salary:** $125,040.00 - $187,560.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer (Clearance Required)](https://www.linkedin.com/jobs/view/4346935839/) — Whiteboard Federal Technologies
-- 📍 **Location:** Reston, VA
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr Data Engineer](https://www.linkedin.com/jobs/view/4450284893/) — Milwaukee Tool
-- 📍 **Location:** Menomonee Falls, WI
-- 🕒 **Posted:** 2026-11-01
-
-### [Field Application Engineer - Data Center R&D](https://www.linkedin.com/jobs/view/4414652824/) — Delta Electronics Americas
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** USD $120,000.00 - USD $150,000.00 /Yr
-- 🕒 **Posted:** 2026-11-01
-
-### [Salesforce Platform Engineer](https://www.linkedin.com/jobs/view/4431891499/) — Booz Allen Hamilton
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $69,400.00 to $158,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450270045/) — Booz Allen Hamilton
-- 📍 **Location:** Dayton, OH
-- 💰 **Salary:** $69,400.00 to $158,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450274000/) — Booz Allen Hamilton
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $69,400.00 to $158,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer, Storage](https://www.linkedin.com/jobs/view/4431895381/) — DoorDash
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,600—$192,000 USD
-- 🕒 **Posted:** 2026-11-01
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4450624800/) — Booz Allen Hamilton
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $77,600.00 to $176,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450273006/) — Booz Allen Hamilton
-- 📍 **Location:** Chantilly, VA
-- 💰 **Salary:** $69,400.00 to $158,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4450621835/) — Booz Allen Hamilton
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $77,600.00 to $176,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Agentic AI and Data Engineer](https://www.linkedin.com/jobs/view/4413279294/) — Booz Allen Hamilton
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $99,000.00 to $225,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Palantir Data Engineer](https://www.linkedin.com/jobs/view/4413279275/) — Booz Allen Hamilton
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $77,600.00 to $176,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [AI SOFTWARE ENGINEER/AI ENGINEER](https://www.linkedin.com/jobs/view/4485400374/) — Newport News Shipbuilding, A Division of HII
-- 📍 **Location:** Newport News, VA
-- 💰 **Salary:** $104,000.00 to $131,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [ISO20022 Payments Software Engineer III - Python Automation Tester](https://www.linkedin.com/jobs/view/4450221242/) — JPMorganChase
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-11-01
-
-### [Associate, Application Engineer III](https://www.linkedin.com/jobs/view/4485936939/) — BlackRock
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** USD$165,131.00 - USD$170,000.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer, Web Products](https://www.linkedin.com/jobs/view/4429466872/) — Databricks
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $136,300—$187,450 USD
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer, Video Streaming](https://www.linkedin.com/jobs/view/4459408322/) — Nuro
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Machine Learning Engineer - Inference](https://www.linkedin.com/jobs/view/3959597204/) — Together AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000 - $300,000
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer III, Master Data Management](https://www.linkedin.com/jobs/view/4478053174/) — Ahold Delhaize USA
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $125,040.00 - $187,560.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr. Platform Software Engineer (Linux)](https://www.linkedin.com/jobs/view/4483744692/) — Medtronic
-- 📍 **Location:** Mounds View, MN
-- 💰 **Salary:** $124,800.00 - $187,200.00
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr. Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4414951843/) — AdvancedMD
-- 📍 **Location:** Lehi, UT
-- 🕒 **Posted:** 2026-11-01
-
-### [DSP Software Engineer](https://www.linkedin.com/jobs/view/4450780157/) — Aptiv
-- 📍 **Location:** Carmel, IN
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr. Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4414965069/) — AdvancedMD
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-11-01
-
-### [Aerospace Application Engineer II](https://www.linkedin.com/jobs/view/4449149098/) — Trelleborg Sealing Solutions
-- 📍 **Location:** Northborough, MA
-- 💰 **Salary:** $90,000-$130,000
-- 🕒 **Posted:** 2026-11-01
-
-### [Full Stack Software Engineer II](https://www.linkedin.com/jobs/view/4455999138/) — Deloitte
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $102,500 to $170,900
-- 🕒 **Posted:** 2026-11-01
-
-### [Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start](https://www.linkedin.com/jobs/view/4459474348/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $128000 - $316800 annually
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer, Sensor Platform](https://www.linkedin.com/jobs/view/4458919247/) — Nuro
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer Intern (Infra) - 2027 Summer](https://www.linkedin.com/jobs/view/4466948288/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $45- $45
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer Intern (Recommendations and Search) - 2027 Summer](https://www.linkedin.com/jobs/view/4466953237/) — TikTok USDS Joint Venture
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $42.75- $42.75
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer Intern (Emerging Product) - 2027 Summer](https://www.linkedin.com/jobs/view/4466937956/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $45- $45
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer 4- Ink](https://www.linkedin.com/jobs/view/4458050084/) — Netflix
-- 📍 **Location:** Los Gatos, CA
-- 💰 **Salary:** $250,000 - $372,250
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr. Software Engineer  - Core Platform (Hybrid)](https://www.linkedin.com/jobs/view/4451045572/) — CrowdStrike
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $140,000 - $220,000 per year
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr. Software Engineer  - Core Platform (Hybrid)](https://www.linkedin.com/jobs/view/4451050386/) — CrowdStrike
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000 - $220,000 per year
-- 🕒 **Posted:** 2026-11-01
-
-### [Infrastructure Software Engineer](https://www.linkedin.com/jobs/view/4469528168/) — Overland AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000 - $260,000 annually
-- 🕒 **Posted:** 2026-11-01
-
-### [Platform Engineer, APIs and Security](https://www.linkedin.com/jobs/view/4485941898/) — adaption
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4440779510/) — Disruptive Solutions, LLC
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $115,900 - 165,000
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4402400050/) — Databricks
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $159,900—$219,900 USD
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer - Training Infrastructure](https://www.linkedin.com/jobs/view/4380550090/) — Baseten
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer II, Autonomy Behaviors (R5202)](https://www.linkedin.com/jobs/view/4441473193/) — Shield
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $131,921 - $197,881
-- 🕒 **Posted:** 2026-11-01
-
-### [Embedded Software Engineer II, Charging & Energy](https://www.linkedin.com/jobs/view/4441100891/) — Rivian
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $107,000-$133,700
-- 🕒 **Posted:** 2026-11-01
-
-### [Illumio Zero Trust Platform Engineer](https://www.linkedin.com/jobs/view/4458310858/) — Disruptive Solutions, LLC
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $137,900 - 197,000
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr. Engineer - Linux Sensor SDET (Hybrid)](https://www.linkedin.com/jobs/view/4451053197/) — CrowdStrike
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $140,000 - $215,000 per year
-- 🕒 **Posted:** 2026-11-01
-
-### [Sr. Engineer - Linux Sensor SDET (Hybrid)](https://www.linkedin.com/jobs/view/4451052225/) — CrowdStrike
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $140,000 - $215,000 per year
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer (LLM) with Security Clearance](https://www.linkedin.com/jobs/view/4483975779/) — Visionist, Inc.
+### [Software Engineer (Level 1-4) with Security Clearance](https://www.linkedin.com/jobs/view/4485404983/) — LEAD Endeavors LLC
 - 📍 **Location:** Fort Meade, MD
-- 💰 **Salary:** $187,000 - $264,000
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer - Platform with Security Clearance](https://www.linkedin.com/jobs/view/4483977732/) — Visionist, Inc.
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $126,500 - $176,000
+### [Software Engineer - School of Medicine](https://www.linkedin.com/jobs/view/4486101203/) — Temple University
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-11-01
 
-### [Controls & Automation Engineer](https://www.linkedin.com/jobs/view/4466957024/) — Radiometer
-- 📍 **Location:** New Brighton, MN
-- 💰 **Salary:** $115,000 - $135,000
+### [Software Engineer with Clearance](https://www.linkedin.com/jobs/view/4485993583/) — Aviture
+- 📍 **Location:** Omaha, NE
 - 🕒 **Posted:** 2026-11-01
 
-### [Data Engineer 5](https://www.linkedin.com/jobs/view/4485958011/) — Capital One
-- 📍 **Location:** Cambridge, MA
-- 💰 **Salary:** $229,900 - $262,400
+### [Angular/Python Full Stack Developer](https://www.linkedin.com/jobs/view/4482099722/) — Pelham Berkeley Search
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $125,000–$145,000,
 - 🕒 **Posted:** 2026-11-01
 
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4480038900/) — Planet Pharma
-- 📍 **Location:** Mounds View, MN
+### [Applied AI Site Reliability Engineer I (PxE A&A)](https://www.linkedin.com/jobs/view/4485997370/) — Deloitte
+- 📍 **Location:** Hermitage, TN
+- 💰 **Salary:** $130,900 to $268,700
 - 🕒 **Posted:** 2026-11-01
 
-### [Automation Engineer](https://www.linkedin.com/jobs/view/4449327076/) — AprilAire
-- 📍 **Location:** Madison, WI
+### [Applied AI Site Reliability Engineer I (PxE A&A)](https://www.linkedin.com/jobs/view/4485984793/) — Deloitte
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $130,900 to $268,700
 - 🕒 **Posted:** 2026-11-01
 
-### [SR. PLATFORM ENGINEER - PLATFORM OPERATIONS](https://www.linkedin.com/jobs/view/4485402177/) — Newport News Shipbuilding, A Division of HII
-- 📍 **Location:** Newport News, VA
-- 💰 **Salary:** $117,000.00 to $146,000.00
+### [Platform Engineer (Hybrid) - 28480](https://www.linkedin.com/jobs/view/4414955510/) — Enlighten
+- 📍 **Location:** Columbia, MD
+- 💰 **Salary:** $90,166.00 - $115,000.00
 - 🕒 **Posted:** 2026-11-01
 
-### [Control System Application Engineer](https://www.linkedin.com/jobs/view/4441139008/) — CITI, Inc.
+### [Software Engineer I](https://www.linkedin.com/jobs/view/4486104109/) — Ivyhill Technologies LLC
+- 📍 **Location:** Hyattsville, MD
+- 🕒 **Posted:** 2026-11-01
+
+### [Software Engineer (Hybrid) - 29025](https://www.linkedin.com/jobs/view/4431873845/) — Mission Technologies, a division of HII
+- 📍 **Location:** Greenville County, SC
+- 💰 **Salary:** $95,164.00 - $135,000.00
+- 🕒 **Posted:** 2026-11-01
+
+### [Platform Engineer (Hybrid) - 28479](https://www.linkedin.com/jobs/view/4414726386/) — Mission Technologies, a division of HII
+- 📍 **Location:** Grapevine, TX
+- 💰 **Salary:** $100,173.00 - $135,000.00
+- 🕒 **Posted:** 2026-11-01
+
+### [Application Developer](https://www.linkedin.com/jobs/view/4485988814/) — Clark Construction Company
+- 📍 **Location:** Lansing, MI
+- 🕒 **Posted:** 2026-11-01
+
+### [Software Engineer (Hybrid) - 30040](https://www.linkedin.com/jobs/view/4460522638/) — Enlighten
+- 📍 **Location:** Fort Meade, MD
+- 💰 **Salary:** $115,199.00 - $150,000.00
+- 🕒 **Posted:** 2026-11-01
+
+### [Applied AI Site Reliability Engineer I (PxE A&A)](https://www.linkedin.com/jobs/view/4486100190/) — Deloitte
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $130,900 to $268,700
+- 🕒 **Posted:** 2026-11-01
+
+### [Applied AI Site Reliability Engineer I (PxE A&A)](https://www.linkedin.com/jobs/view/4485998188/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 💰 **Salary:** $130,900 to $268,700
+- 🕒 **Posted:** 2026-11-01
+
+### [Applied AI Site Reliability Engineer I (PxE A&A)](https://www.linkedin.com/jobs/view/4485988784/) — Deloitte
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $130,900 to $268,700
+- 🕒 **Posted:** 2026-11-01
+
+### [Applied AI Site Reliability Engineer I (PxE A&A)](https://www.linkedin.com/jobs/view/4485995384/) — Deloitte
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $130,900 to $268,700
+- 🕒 **Posted:** 2026-11-01
+
+### [Software Engineer (Hybrid) - 30043](https://www.linkedin.com/jobs/view/4459420056/) — Mission Technologies, a division of HII
+- 📍 **Location:** Columbia, MD
+- 💰 **Salary:** $111,662.00 - $150,000.00
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-036](https://www.linkedin.com/jobs/view/4483992745/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-046](https://www.linkedin.com/jobs/view/4483982976/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-267](https://www.linkedin.com/jobs/view/4483997469/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-224](https://www.linkedin.com/jobs/view/4483999385/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-244](https://www.linkedin.com/jobs/view/4484300342/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-012](https://www.linkedin.com/jobs/view/4483996650/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-265](https://www.linkedin.com/jobs/view/4484306017/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-205](https://www.linkedin.com/jobs/view/4483995741/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-249](https://www.linkedin.com/jobs/view/4483999381/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-041](https://www.linkedin.com/jobs/view/4484300334/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [AI Data Engineer](https://www.linkedin.com/jobs/view/4485409880/) — PowerPlan, Inc.
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-11-01
 
-### [Application Engineering Intern](https://www.linkedin.com/jobs/view/4460113870/) — Emerson
-- 📍 **Location:** Austin, TX
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4483258880/) — Shields Group Search
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer, Swarm Systems](https://www.linkedin.com/jobs/view/4405459825/) — APIUM Swarm Robotics - A Red Cat Company
-- 📍 **Location:** San Diego, CA
+### [live-test-backfill Software Engineer 2026-11-01-003](https://www.linkedin.com/jobs/view/4483995715/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer with Security Clearance](https://www.linkedin.com/jobs/view/4483990171/) — Visionist, Inc.
-- 📍 **Location:** Columbia, MD
-- 💰 **Salary:** $143,000 - $220,000
+### [live-test-backfill Software Engineer 2026-10-31-003](https://www.linkedin.com/jobs/view/4483999377/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Junior Full Stack Software Engineer with Security Clearance](https://www.linkedin.com/jobs/view/4483988211/) — Visionist, Inc.
+### [live-test-backfill Software Engineer 2026-11-01-002](https://www.linkedin.com/jobs/view/4483988788/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-001](https://www.linkedin.com/jobs/view/4484302288/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-266](https://www.linkedin.com/jobs/view/4484306003/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-039](https://www.linkedin.com/jobs/view/4484301331/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-203](https://www.linkedin.com/jobs/view/4483982987/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-004](https://www.linkedin.com/jobs/view/4483994641/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-267](https://www.linkedin.com/jobs/view/4484304209/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-283](https://www.linkedin.com/jobs/view/4484302316/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-005](https://www.linkedin.com/jobs/view/4483986938/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-023](https://www.linkedin.com/jobs/view/4484301313/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-006](https://www.linkedin.com/jobs/view/4483992740/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-031](https://www.linkedin.com/jobs/view/4483994642/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-023](https://www.linkedin.com/jobs/view/4483999353/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-010](https://www.linkedin.com/jobs/view/4483984996/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-029](https://www.linkedin.com/jobs/view/4483989728/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-278](https://www.linkedin.com/jobs/view/4483990817/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-031](https://www.linkedin.com/jobs/view/4484305133/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-009](https://www.linkedin.com/jobs/view/4484301336/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-021](https://www.linkedin.com/jobs/view/4483990787/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-259](https://www.linkedin.com/jobs/view/4484302297/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-070](https://www.linkedin.com/jobs/view/4484306006/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-085](https://www.linkedin.com/jobs/view/4484304187/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-204](https://www.linkedin.com/jobs/view/4483990819/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-262](https://www.linkedin.com/jobs/view/4484301347/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-228](https://www.linkedin.com/jobs/view/4484306014/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-014](https://www.linkedin.com/jobs/view/4483992728/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-043](https://www.linkedin.com/jobs/view/4484305119/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-097](https://www.linkedin.com/jobs/view/4483994652/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-237](https://www.linkedin.com/jobs/view/4484306015/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-266](https://www.linkedin.com/jobs/view/4483991749/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-063](https://www.linkedin.com/jobs/view/4484301333/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-026](https://www.linkedin.com/jobs/view/4484304191/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-277](https://www.linkedin.com/jobs/view/4484305131/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-012](https://www.linkedin.com/jobs/view/4483987922/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-127](https://www.linkedin.com/jobs/view/4483995733/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-226](https://www.linkedin.com/jobs/view/4484300330/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-208](https://www.linkedin.com/jobs/view/4484305139/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-129](https://www.linkedin.com/jobs/view/4484305113/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-278](https://www.linkedin.com/jobs/view/4483999389/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-096](https://www.linkedin.com/jobs/view/4483998390/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-202](https://www.linkedin.com/jobs/view/4483991758/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-271](https://www.linkedin.com/jobs/view/4484304198/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-243](https://www.linkedin.com/jobs/view/4483989743/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-061](https://www.linkedin.com/jobs/view/4483998382/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-291](https://www.linkedin.com/jobs/view/4484307023/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-231](https://www.linkedin.com/jobs/view/4484305126/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-248](https://www.linkedin.com/jobs/view/4483996644/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-147](https://www.linkedin.com/jobs/view/4483988810/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-115](https://www.linkedin.com/jobs/view/4483988793/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-053](https://www.linkedin.com/jobs/view/4483992743/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-292](https://www.linkedin.com/jobs/view/4483999382/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-076](https://www.linkedin.com/jobs/view/4483983993/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-017](https://www.linkedin.com/jobs/view/4483993708/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-067](https://www.linkedin.com/jobs/view/4483982993/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-059](https://www.linkedin.com/jobs/view/4483982989/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-294](https://www.linkedin.com/jobs/view/4484307017/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-128](https://www.linkedin.com/jobs/view/4483990793/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-30-288](https://www.linkedin.com/jobs/view/4483995732/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-138](https://www.linkedin.com/jobs/view/4484305136/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-048](https://www.linkedin.com/jobs/view/4483993706/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-287](https://www.linkedin.com/jobs/view/4483986968/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-015](https://www.linkedin.com/jobs/view/4484304178/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-237](https://www.linkedin.com/jobs/view/4483999386/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-117](https://www.linkedin.com/jobs/view/4483992750/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-025](https://www.linkedin.com/jobs/view/4483987921/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [Software Engineer with Security Clearance](https://www.linkedin.com/jobs/view/4485417844/) — Kaizen Approach, Inc.
 - 📍 **Location:** Annapolis Junction, MD
-- 💰 **Salary:** $126,500 - $176,000
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer (Full Stack) with Security Clearance](https://www.linkedin.com/jobs/view/4483991152/) — Visionist, Inc.
-- 📍 **Location:** Fort Meade, MD
-- 💰 **Salary:** $126,500 - $176,000
+### [live-test-backfill Software Engineer 2026-11-01-196](https://www.linkedin.com/jobs/view/4484301327/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Cloud Software Engineer with Security Clearance](https://www.linkedin.com/jobs/view/4483986372/) — Visionist, Inc.
-- 📍 **Location:** Columbia, MD
-- 💰 **Salary:** $148,500 - $227,000
+### [live-test-backfill Software Engineer 2026-11-01-143](https://www.linkedin.com/jobs/view/4483989738/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Full Stack Software Engineer with Security Clearance](https://www.linkedin.com/jobs/view/4483976743/) — Visionist, Inc.
-- 📍 **Location:** Annapolis Junction, MD
-- 💰 **Salary:** $165,000 - $209,000
+### [live-test-backfill Software Engineer 2026-11-01-018](https://www.linkedin.com/jobs/view/4483991751/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer (Full Stack Focus) with Security Clearance](https://www.linkedin.com/jobs/view/4483990168/) — Visionist, Inc.
-- 📍 **Location:** Fort Meade, MD
-- 💰 **Salary:** $176,000 - $264,000
+### [live-test-backfill Software Engineer 2026-11-01-210](https://www.linkedin.com/jobs/view/4483999372/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer - AI Enabled Vulnerability Research with Security Clearance](https://www.linkedin.com/jobs/view/4483978715/) — Visionist, Inc.
-- 📍 **Location:** Columbia, MD
-- 💰 **Salary:** $187,000–$264,000
+### [live-test-backfill Software Engineer 2026-11-01-282](https://www.linkedin.com/jobs/view/4483985991/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Full Stack Software Engineer (AWS Certification Required) with Security Clearance](https://www.linkedin.com/jobs/view/4483986364/) — Visionist, Inc.
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $148,500 - $227,000
+### [live-test-backfill Software Engineer 2026-11-01-197](https://www.linkedin.com/jobs/view/4483998401/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Cloud Software Engineer with Security Clearance](https://www.linkedin.com/jobs/view/4483991153/) — Visionist, Inc.
-- 📍 **Location:** Fort Meade, MD
-- 💰 **Salary:** $148,500 - $229,000
+### [live-test-backfill Software Engineer 2026-11-01-285](https://www.linkedin.com/jobs/view/4483995731/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Application Developer (Reverse Engineer) with Security Clearance](https://www.linkedin.com/jobs/view/4483975780/) — Visionist, Inc.
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $148,500 - $214,500
+### [live-test-backfill Software Engineer 2026-11-01-200](https://www.linkedin.com/jobs/view/4483986934/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer III, Infrastructure, Google Cloud Platforms](https://www.linkedin.com/jobs/view/4448770205/) — Google
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $147000 - $210000
+### [live-test-backfill Software Engineer 2026-11-01-270](https://www.linkedin.com/jobs/view/4484305128/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Platform Engineer, APIs and Security](https://www.linkedin.com/jobs/view/4483991164/) — adaption
+### [live-test-backfill Software Engineer 2026-11-01-122](https://www.linkedin.com/jobs/view/4483994653/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-263](https://www.linkedin.com/jobs/view/4483988798/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-223](https://www.linkedin.com/jobs/view/4483982986/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-120](https://www.linkedin.com/jobs/view/4483993707/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-262](https://www.linkedin.com/jobs/view/4484300332/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-182](https://www.linkedin.com/jobs/view/4483992735/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-215](https://www.linkedin.com/jobs/view/4484300328/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-221](https://www.linkedin.com/jobs/view/4483988801/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-069](https://www.linkedin.com/jobs/view/4484300312/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-114](https://www.linkedin.com/jobs/view/4484305120/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-140](https://www.linkedin.com/jobs/view/4484302307/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-060](https://www.linkedin.com/jobs/view/4483999359/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-121](https://www.linkedin.com/jobs/view/4483987923/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-196](https://www.linkedin.com/jobs/view/4484306024/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-094](https://www.linkedin.com/jobs/view/4483990796/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-137](https://www.linkedin.com/jobs/view/4483998396/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-144](https://www.linkedin.com/jobs/view/4483991767/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-200](https://www.linkedin.com/jobs/view/4483987943/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-192](https://www.linkedin.com/jobs/view/4484302287/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-107](https://www.linkedin.com/jobs/view/4483995725/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-280](https://www.linkedin.com/jobs/view/4483986953/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-278](https://www.linkedin.com/jobs/view/4483991752/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-152](https://www.linkedin.com/jobs/view/4483993719/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-146](https://www.linkedin.com/jobs/view/4483989733/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-295](https://www.linkedin.com/jobs/view/4483990806/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-161](https://www.linkedin.com/jobs/view/4483985994/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-201](https://www.linkedin.com/jobs/view/4483996655/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-297](https://www.linkedin.com/jobs/view/4483986950/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-164](https://www.linkedin.com/jobs/view/4483985993/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-179](https://www.linkedin.com/jobs/view/4483997455/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-245](https://www.linkedin.com/jobs/view/4483988804/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-256](https://www.linkedin.com/jobs/view/4484301324/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-118](https://www.linkedin.com/jobs/view/4484305118/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-254](https://www.linkedin.com/jobs/view/4484301332/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-103](https://www.linkedin.com/jobs/view/4483995721/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-190](https://www.linkedin.com/jobs/view/4483987933/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-157](https://www.linkedin.com/jobs/view/4484304193/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-169](https://www.linkedin.com/jobs/view/4484304180/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-177](https://www.linkedin.com/jobs/view/4483990803/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-11-01-159](https://www.linkedin.com/jobs/view/4483997458/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-195](https://www.linkedin.com/jobs/view/4484302313/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-140](https://www.linkedin.com/jobs/view/4483982994/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-145](https://www.linkedin.com/jobs/view/4483988811/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4485412889/) — DevtestCo 12366
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4485953252/) — Cisco
-- 📍 **Location:** Triangle, NC
-- 💰 **Salary:** $167,700.00 to $245,200.00
+### [Flight Software Engineer](https://www.linkedin.com/jobs/view/4484301360/) — Fortastra
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $300,000.00 - $345,000.00
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4485942959/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $167,700.00 to $245,200.00
+### [live-test-backfill Software Engineer 2026-10-31-280](https://www.linkedin.com/jobs/view/4484302312/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Data Engineer/ETL Developer with Security Clearance](https://www.linkedin.com/jobs/view/4483979699/) — Saalex Solutions - A Saalex Company
-- 📍 **Location:** Lexington Park, MD
-- 💰 **Salary:** $90k-$125k annually
+### [live-test-backfill Software Engineer 2026-10-31-220](https://www.linkedin.com/jobs/view/4483989744/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Test Engineer, ADAS](https://www.linkedin.com/jobs/view/4433004294/) — Harbinger
-- 📍 **Location:** Garden Grove, CA
-- 💰 **Salary:** $130,000—$160,000 USD
+### [live-test-backfill Software Engineer 2026-10-31-187](https://www.linkedin.com/jobs/view/4484307013/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer Intern (Payment) - 2027 Summer](https://www.linkedin.com/jobs/view/4466938481/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $45- $45
+### [live-test-backfill Software Engineer 2026-10-31-107](https://www.linkedin.com/jobs/view/4484301335/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-120](https://www.linkedin.com/jobs/view/4483993733/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-080](https://www.linkedin.com/jobs/view/4483987944/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-230](https://www.linkedin.com/jobs/view/4484301328/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-253](https://www.linkedin.com/jobs/view/4484304173/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-240](https://www.linkedin.com/jobs/view/4483996660/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-190](https://www.linkedin.com/jobs/view/4483990815/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-249](https://www.linkedin.com/jobs/view/4483999387/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-186](https://www.linkedin.com/jobs/view/4483993735/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-060](https://www.linkedin.com/jobs/view/4483990811/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-298](https://www.linkedin.com/jobs/view/4483989739/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-283](https://www.linkedin.com/jobs/view/4483994661/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-161](https://www.linkedin.com/jobs/view/4483993715/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-125](https://www.linkedin.com/jobs/view/4483989750/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-110](https://www.linkedin.com/jobs/view/4484308005/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-232](https://www.linkedin.com/jobs/view/4484308011/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-275](https://www.linkedin.com/jobs/view/4483991770/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-246](https://www.linkedin.com/jobs/view/4483995742/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-235](https://www.linkedin.com/jobs/view/4484305141/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-173](https://www.linkedin.com/jobs/view/4483991769/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-219](https://www.linkedin.com/jobs/view/4483991766/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-075](https://www.linkedin.com/jobs/view/4483982996/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-182](https://www.linkedin.com/jobs/view/4483988813/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-223](https://www.linkedin.com/jobs/view/4484308001/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-285](https://www.linkedin.com/jobs/view/4483998414/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-199](https://www.linkedin.com/jobs/view/4484301321/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-250](https://www.linkedin.com/jobs/view/4484301339/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-299](https://www.linkedin.com/jobs/view/4484305114/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-214](https://www.linkedin.com/jobs/view/4484304202/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-174](https://www.linkedin.com/jobs/view/4483986963/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-251](https://www.linkedin.com/jobs/view/4483996626/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-052](https://www.linkedin.com/jobs/view/4484304196/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-245](https://www.linkedin.com/jobs/view/4483989729/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-172](https://www.linkedin.com/jobs/view/4483998404/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-069](https://www.linkedin.com/jobs/view/4484307006/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [live-test-backfill Software Engineer 2026-10-31-150](https://www.linkedin.com/jobs/view/4484303305/) — GSOBA
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $50,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-11-01
