@@ -1,277 +1,343 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-11-04 01:43 UTC*
+*Last updated: 2026-11-04 21:41 UTC*
 
-**59 new role(s)** since last run · 59 total in last 1h
+**77 new role(s)** since last run · 77 total in last 1h
 
-### [Sr. Satellite Flight Software Engineer - TeraWave](https://www.linkedin.com/jobs/view/4471222333/) — Blue Origin
+### [Jr. Software Engineer](https://www.linkedin.com/jobs/view/4487529736/) — NBCUniversal
+- 📍 **Location:** Universal City, CA
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4486529156/) — Confidential Employer
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $197,529.00 - $276,539.55
 - 🕒 **Posted:** 2026-11-04
 
-### [Summer 2027 Software Engineering Internship](https://www.linkedin.com/jobs/view/4486466757/) — T-Mobile
-- 📍 **Location:** Philadelphia, PA
+### [Systems & Application Engineer](https://www.linkedin.com/jobs/view/4486538073/) — Elite Interactive Solutions
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer Intern (SDS e-Commerce Team)](https://www.linkedin.com/jobs/view/4487095448/) — Staples
-- 📍 **Location:** Framingham, MA
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4486531100/) — Vertex Elite LLC
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $120,000.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Associate, Software Engineering](https://www.linkedin.com/jobs/view/4487084600/) — L3Harris Technologies
-- 📍 **Location:** Clifton, NJ
-- 💰 **Salary:** $75,500 - $140,500
+### [Data Engineer Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4486528272/) — Hira
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4487088454/) — Boston Scientific
-- 📍 **Location:** Maple Grove, MN
-- 💰 **Salary:** $59900 - $113800
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4485522972/) — SoTalent
+- 📍 **Location:** Maryland Heights, MO
+- 💰 **Salary:** $65,000.00/yr - $72,000.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4487079875/) — Boston Scientific
-- 📍 **Location:** Maple Grove, MN
-- 💰 **Salary:** $59900 - $113800
+### [Software Engineer Level 1 with Security Clearance](https://www.linkedin.com/jobs/view/4486520759/) — IntelliGenesis LLC®
+- 📍 **Location:** Annapolis Junction, MD
+- 💰 **Salary:** $76,000 - $184,000
 - 🕒 **Posted:** 2026-11-04
 
-### [Jr Software Engineer](https://www.linkedin.com/jobs/view/4487076932/) — Riverside Research
-- 📍 **Location:** Beavercreek, OH
-- 💰 **Salary:** $75,000 - $95,000
+### [AI First iOS Software Engineer (Remote)](https://www.linkedin.com/jobs/view/4486539042/) — OPENLANE
+- 📍 **Location:** Carmel, IN
+- 💰 **Salary:** $85,000.00 - $125,000.00 USD
 - 🕒 **Posted:** 2026-11-04
 
-### [Junior Software Engineer - Remote](https://www.linkedin.com/jobs/view/4487099185/) — Serco
-- 📍 **Location:** Virginia, United States
+### [Software Developer](https://www.linkedin.com/jobs/view/4486519774/) — AK Pizza Crust
+- 📍 **Location:** Green Bay, WI
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer, Engine Productivity](https://www.linkedin.com/jobs/view/4486324363/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $153,120—$196,750 USD
-- 🕒 **Posted:** 2026-11-04
-
-### [Video/Image AI/ML Software Engineer - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4487092418/) — ByteDance
+### [AI Automation Engineer](https://www.linkedin.com/jobs/view/4486524681/) — Prudent Technologies and Consulting, Inc.
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $128000 - $316800 annually
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4487087242/) — MiniMed
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $87,000.00 - $149,000.00
-- 🕒 **Posted:** 2026-11-04
-
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4487078820/) — Viabot
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-04
-
-### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4487084502/) — Pendo.io
+### [Data Engineer](https://www.linkedin.com/jobs/view/4485538317/) — SoTalent
 - 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $108,000 - $131,000
 - 🕒 **Posted:** 2026-11-04
 
-### [AI Software Developer](https://www.linkedin.com/jobs/view/4487094174/) — Dassault Systèmes
-- 📍 **Location:** Waltham, MA
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4486532106/) — Prolaio
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4485033691/) — Dematic
-- 📍 **Location:** Wauwatosa, WI
-- 💰 **Salary:** $ 76,500 - 105,000
+### [Python Software Engineer – Network Management & DDI](https://www.linkedin.com/jobs/view/4487538570/) — Elantis
+- 📍 **Location:** Riverton, UT
 - 🕒 **Posted:** 2026-11-04
 
-### [Mid-Level Data Engineer](https://www.linkedin.com/jobs/view/4487073920/) — Mod Op
+### [Software Engineer III, Edge](https://www.linkedin.com/jobs/view/4476321964/) — Box
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $165,000 USD - $206,500 USD
+- 🕒 **Posted:** 2026-11-04
+
+### [Cloud Software Engineer, Level 2 with Security Clearance](https://www.linkedin.com/jobs/view/4486534007/) — Independent Software
+- 📍 **Location:** Annapolis Junction, MD
+- 🕒 **Posted:** 2026-11-04
+
+### [Data Engineer in Test](https://www.linkedin.com/jobs/view/4486530152/) — Prolaio
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-04
+
+### [Python Developer](https://www.linkedin.com/jobs/view/4486519848/) — CornerStone Technology Talent Services
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-11-04
+
+### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4487543276/) — Zel Technologies LLC
+- 📍 **Location:** Charlottesville, VA
+- 💰 **Salary:** $100,000.00/yr - $107,000.00/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [JAVA Software Engineer (Secret Clearance)](https://www.linkedin.com/jobs/view/4486511962/) — TrustThink
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-11-04
+
+### [Python Developer with Automation](https://www.linkedin.com/jobs/view/4485531707/) — Resource Logistics Inc.
 - 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-11-04
 
-### [AI & Automation Engineer](https://www.linkedin.com/jobs/view/4485024956/) — Technical Resources International, Inc.
-- 📍 **Location:** Bethesda, MD
+### [Application Engineer II--Job ID: 4201](https://www.linkedin.com/jobs/view/4487543300/) — RISINGSUN TECHNOLOGIES
+- 📍 **Location:** Greenville, SC
 - 🕒 **Posted:** 2026-11-04
 
-### [Intern - Software Engineer - Summer 2027](https://www.linkedin.com/jobs/view/4487075992/) — Commonwealth Fusion Systems
-- 📍 **Location:** Devens, MA
-- 💰 **Salary:** $25.00/hr - $38.00/hr
-- 🕒 **Posted:** 2026-11-04
-
-### [Software Engineer - Orchestrated Application Recovery](https://www.linkedin.com/jobs/view/4487082635/) — Rubrik
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $158,000—$237,000 USD
-- 🕒 **Posted:** 2026-11-04
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487076667/) — United Airlines
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $94,145.00 to $122,550.00
-- 🕒 **Posted:** 2026-11-04
-
-### [Software Developer 2/3](https://www.linkedin.com/jobs/view/4487090399/) — Los Alamos National Laboratory
-- 📍 **Location:** Los Alamos, NM
-- 💰 **Salary:** $87,800 to $143,000
-- 🕒 **Posted:** 2026-11-04
-
-### [Software Engineering Winter Internship](https://www.linkedin.com/jobs/view/4487088452/) — Rubrik
+### [Software Development Engineer in Test (SDET)](https://www.linkedin.com/jobs/view/4486526522/) — LogicsT Technologies
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-04
 
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4477050877/) — Haystack
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $82,000.00/yr - $99,450.00/yr
+### [Python Developer with Automation](https://www.linkedin.com/jobs/view/4485522892/) — TechNeptune Consulting Inc.
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-11-04
 
-### [Junior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4477055764/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $80,000.00/yr - $128,000.00/yr
+### [Software Engineer with Security Clearance](https://www.linkedin.com/jobs/view/4486535004/) — IAMUS
+- 📍 **Location:** Lackland Air Force Base, TX
 - 🕒 **Posted:** 2026-11-04
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4487082951/) — MeeBoss
-- 📍 **Location:** Streamwood, IL
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4484693056/) — BeaconFire Inc.
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer, IoT](https://www.linkedin.com/jobs/view/4487092495/) — Intuitive
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $186,300.00/yr
+### [Back End Developer](https://www.linkedin.com/jobs/view/4485026526/) — BeaconFire Inc.
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer II - Cloud-Native Agent Harness (Mecatl)](https://www.linkedin.com/jobs/view/4485033734/) — Stacklok
+### [Junior AI Application Developer](https://www.linkedin.com/jobs/view/4487538313/) — HouseMax Funding
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 🕒 **Posted:** 2026-11-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4487534373/) — Loud Solutions
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4487532371/) — Everlaw
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $150,000 to $190,000
+- 🕒 **Posted:** 2026-11-04
+
+### [Full Stack Software Engineer (Java/Kotlin, Angular)](https://www.linkedin.com/jobs/view/4486523632/) — DivIHN Integration Inc
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $59.00/hr - $63.00/hr
+- 🕒 **Posted:** 2026-11-04
+
+### [Full Stack Developer](https://www.linkedin.com/jobs/view/4486511881/) — Populus Financial Group
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-11-04
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4477432375/) — Talent Stack
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $150,000–$185,000
+- 🕒 **Posted:** 2026-11-04
+
+### [Software Engineer, Blockchain](https://www.linkedin.com/jobs/view/4485531189/) — HIFI
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $157,500 - $192,500
 - 🕒 **Posted:** 2026-11-04
 
-### [In-Vehicle Network Software Developer](https://www.linkedin.com/jobs/view/4477228212/) — Hashlist
-- 📍 **Location:** Allen Park, MI
+### [Software Engineer, Voice Product](https://www.linkedin.com/jobs/view/4487541116/) — SpaceX Super Intelligence
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000 - $440,000 USD
 - 🕒 **Posted:** 2026-11-04
 
-### [Automation Engineer - Denver, CO area](https://www.linkedin.com/jobs/view/4486305964/) — ESCO Automation
-- 📍 **Location:** Louisville, CO
+### [Web Developer](https://www.linkedin.com/jobs/view/4485525243/) — Ben Hamou Benchetrit Law Group LP
+- 📍 **Location:** Eatontown, NJ
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4487098245/) — Soni
-- 📍 **Location:** Chester Springs, PA
+### [Software Engineer, Voice Product](https://www.linkedin.com/jobs/view/4487524847/) — SpaceX Super Intelligence
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $180,000 - $440,000 USD
 - 🕒 **Posted:** 2026-11-04
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487081876/) — GamblingCareers.com
-- 📍 **Location:** Austin, TX
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4487526822/) — KTek Resourcing
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4487094169/) — Riverside Research
-- 📍 **Location:** Beavercreek, OH
-- 💰 **Salary:** $95,000 - 140,000
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4487532468/) — FastTek Global
+- 📍 **Location:** Towson, MD
+- 💰 **Salary:** $97,000.00/yr - $156,000.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4487084872/) — Themesoft Inc.
-- 📍 **Location:** Tempe, AZ
+### [Embedded Software Engineer – C / Model-Based Development](https://www.linkedin.com/jobs/view/4486517770/) — Harvey Nash
+- 📍 **Location:** Chillicothe, IL
+- 💰 **Salary:** $46.00/hr - $52.00/hr
 - 🕒 **Posted:** 2026-11-04
 
-### [Full Stack Software Engineer - Advanced Visualizations](https://www.linkedin.com/jobs/view/4485024971/) — Johns Hopkins Applied Physics Laboratory
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $100,000.00/yr - $245,000.00/yr
+### [Full-Stack Developer Intern](https://www.linkedin.com/jobs/view/4487534251/) — METY Foundation
+- 📍 **Location:** Leesburg, VA
 - 🕒 **Posted:** 2026-11-04
 
-### [Mid-Level Analytics Software Engineer](https://www.linkedin.com/jobs/view/4486306931/) — Nyla Technology Solutions
-- 📍 **Location:** Annapolis Junction, MD
-- 💰 **Salary:** $149,000-$176,000
+### [Enterprise - Platform Engineer - Python, AWS, Linux](https://www.linkedin.com/jobs/view/4487532377/) — Erias Ventures
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $150,000 - $265,000
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer, Infrastructure Modelling](https://www.linkedin.com/jobs/view/4486327267/) — Fluidstack
+### [Software Engineer](https://www.linkedin.com/jobs/view/4485520941/) — Alldus
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $224,000.00/yr - $279,000.00/yr
+- 💰 **Salary:** $170,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Manufacturing Software Engineer P19](https://www.linkedin.com/jobs/view/4487078782/) — Pacific Scientific Energetic Materials Company
-- 📍 **Location:** Hollister, CA
+### [Web Developer](https://www.linkedin.com/jobs/view/4486507969/) — The Connor Group
+- 📍 **Location:** Miamisburg, OH
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer / Analyst](https://www.linkedin.com/jobs/view/4485039458/) — PeopleTec, Inc.
-- 📍 **Location:** Huntsville, AL
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4487543279/) — 4A Consulting, LLC
+- 📍 **Location:** Virginia, United States
 - 🕒 **Posted:** 2026-11-04
 
-### [Sr Software Engineer, Embedded Flight Software](https://www.linkedin.com/jobs/view/4485033688/) — York Space Systems
-- 📍 **Location:** Greenwood Village, CO
-- 💰 **Salary:** $145,000.00/yr - $245,000.00/yr
+### [Full Stack Developer (Front-End Focus)](https://www.linkedin.com/jobs/view/4487542409/) — INSPYR Solutions
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $65.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer, Full StackNew
-Raleigh, NC](https://www.linkedin.com/jobs/view/4486304996/) — Pendo.io Japan
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $108,000 - $131,000
+### [Software Engineer](https://www.linkedin.com/jobs/view/4487547179/) — QuoteWell
+- 📍 **Location:** Austin, Texas Metropolitan Area
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer (3-5 Years Experience)](https://www.linkedin.com/jobs/view/4486321771/) — Foji
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $95,000.00 - $125,000.00 per year
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4487528862/) — Gaumard Scientific
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-11-04
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487081752/) — Trinzic
-- 📍 **Location:** Beavercreek, OH
+### [Quantitative Software Engineer](https://www.linkedin.com/jobs/view/4485525830/) — FanDuel
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $125,000 - $156,000 USD
 - 🕒 **Posted:** 2026-11-04
 
-### [Flight Simulation Software Engineer](https://www.linkedin.com/jobs/view/4477054730/) — Haystack
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $90,100.00/yr - $121,900.00/yr
+### [Image Processing Software Engineer](https://www.linkedin.com/jobs/view/4487528857/) — Gaumard Scientific
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-11-04
 
-### [Junior Cloud Software Engineer](https://www.linkedin.com/jobs/view/4477062527/) — Haystack
-- 📍 **Location:** Annapolis Junction, MD
-- 💰 **Salary:** $271,000.00/yr - $271,000.00/yr
+### [Python Developer](https://www.linkedin.com/jobs/view/4486524760/) — Agile Ventures Pvt Ltd
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-11-04
 
-### [Full Stack Engineer - Durham NC -Only W2](https://www.linkedin.com/jobs/view/4485044384/) — Digipulse Technologies Inc.
-- 📍 **Location:** Durham, NC
+### [Quality Assurance Automation Engineer](https://www.linkedin.com/jobs/view/4480494889/) — Harper Harrison
+- 📍 **Location:** Ohio, United States
 - 🕒 **Posted:** 2026-11-04
 
-### [Sr. Software Engineer, BackendNew
-Raleigh, NC](https://www.linkedin.com/jobs/view/4486327247/) — Pendo.io Japan
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $135,000 - $150,000
+### [Software Engineer 3](https://www.linkedin.com/jobs/view/4486536073/) — Vertage
+- 📍 **Location:** Dearborn, MI
 - 🕒 **Posted:** 2026-11-04
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4485025758/) — DIGI-CARE: DIGItal technologies for optimizing the Continuum of CARE for Diabetes and Hypertension
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-11-03
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4484689050/) — BeaconFire Inc.
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer l - Embedded, Onsite](https://www.linkedin.com/jobs/view/4487077199/) — Raytheon
-- 📍 **Location:** Goleta, CA
-- 🕒 **Posted:** 2026-11-03
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4484673706/) — BeaconFire Inc.
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-11-04
 
-### [Full Stack Software Engineer (2 days telework/week, TS/SCI with Polygraph required)](https://www.linkedin.com/jobs/view/4487086140/) — Red Alpha
-- 📍 **Location:** Annapolis Junction, MD
-- 💰 **Salary:** $115,000 - $220,000
-- 🕒 **Posted:** 2026-11-03
+### [Software Engineer - Java/Full Stack III](https://www.linkedin.com/jobs/view/4486535073/) — V-Soft Consulting Group, Inc.
+- 📍 **Location:** Farmington Hills, MI
+- 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer Data & AI II (Full Time) – United States](https://www.linkedin.com/jobs/view/4487060981/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $125,700.00 - $203,100.00
-- 🕒 **Posted:** 2026-11-03
+### [Software Engineer](https://www.linkedin.com/jobs/view/4474632293/) — Lawelawe Defense Inc.
+- 📍 **Location:** Fort Knox, KY
+- 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer Data & AI II (Full Time) – United States](https://www.linkedin.com/jobs/view/4487078363/) — Cisco
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $125,700.00 - $203,100.00
-- 🕒 **Posted:** 2026-11-03
+### [Sr. Java Full Stack Developer](https://www.linkedin.com/jobs/view/4487515763/) — VySystems
+- 📍 **Location:** New City, NY
+- 🕒 **Posted:** 2026-11-04
 
-### [Java Backend Developer](https://www.linkedin.com/jobs/view/4485041103/) — Infosys
-- 📍 **Location:** Richardson, TX
-- 🕒 **Posted:** 2026-11-03
+### [AWS Python Developer - React](https://www.linkedin.com/jobs/view/4486527450/) — Interon IT Solutions
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-11-04
 
-### [Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4487078231/) — Collins Aerospace
-- 📍 **Location:** West Valley City, UT
-- 🕒 **Posted:** 2026-11-03
+### [Sr. Software Engineer (US Citizenship Required)](https://www.linkedin.com/jobs/view/4480277859/) — Teledyne FLIR
+- 📍 **Location:** Wilsonville, OR
+- 🕒 **Posted:** 2026-11-04
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4486301927/) — SHAZAM Network - ITS, Inc.
-- 📍 **Location:** Johnston, IA
-- 💰 **Salary:** $90,000.00/yr - $125,000.00/yr
-- 🕒 **Posted:** 2026-11-03
+### [Software Developer](https://www.linkedin.com/jobs/view/4485540267/) — SoTalent
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-11-04
 
-### [Full Stack Application Developer](https://www.linkedin.com/jobs/view/4487070763/) — Sherwin-Williams
-- 📍 **Location:** Cleveland, OH
-- 💰 **Salary:** $96,949.84/yr - $123,699.93/yr
-- 🕒 **Posted:** 2026-11-03
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4486311402/) — A&C Tech, Inc
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-11-03
-
-### [Data Engineer/Consultant](https://www.linkedin.com/jobs/view/4487083083/) — Noblis
-- 📍 **Location:** Springfield, VA
-- 💰 **Salary:** USD $82,500.00 - USD $128,925.00 /Yr
-- 🕒 **Posted:** 2026-11-03
-
-### [Automation Engineer](https://www.linkedin.com/jobs/view/4481767956/) — Accenture Federal Services
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $81,000—$154,700 USD
-- 🕒 **Posted:** 2026-11-03
-
-### [Full Stack Developer](https://www.linkedin.com/jobs/view/4485041101/) — Infosys
+### [Back End Developer](https://www.linkedin.com/jobs/view/4485539372/) — Aptimized
 - 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-11-03
+- 💰 **Salary:** $1.00/hr - $2.00/hr
+- 🕒 **Posted:** 2026-11-04
+
+### [Full Stack Developer - Washington DC, Maryland, and Virginia](https://www.linkedin.com/jobs/view/4487539487/) — SIDRAM TECHNOLOGIES
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-11-04
+
+### [Full Stack Developer](https://www.linkedin.com/jobs/view/4487536614/) — SIDRAM TECHNOLOGIES
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-11-04
+
+### [.Net Full Stack Developer (Azure Focus)](https://www.linkedin.com/jobs/view/4484139145/) — GBIT (Global Bridge InfoTech Inc)
+- 📍 **Location:** McKinney, TX
+- 🕒 **Posted:** 2026-11-04
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4485532603/) — Eliassen Group
+- 📍 **Location:** Westlake, TX
+- 💰 **Salary:** $50.00 to $60.00/hr
+- 🕒 **Posted:** 2026-11-04
+
+### [AI Software Engineer III](https://www.linkedin.com/jobs/view/4486539008/) — Software Guidance & Assistance, Inc. (SGA, Inc.)
+- 📍 **Location:** Farmington Hills, MI
+- 💰 **Salary:** $65.00/hr - $82.00/hr
+- 🕒 **Posted:** 2026-11-04
+
+### [AI Software Engineer III](https://www.linkedin.com/jobs/view/4486521840/) — V-Soft Consulting Group, Inc.
+- 📍 **Location:** Farmington Hills, MI
+- 🕒 **Posted:** 2026-11-04
+
+### [Software Engineer - Crypto](https://www.linkedin.com/jobs/view/4480310018/) — Alpaca
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-04
+
+### [Sr. Software Engineer, Kernels/CUDA (C++)](https://www.linkedin.com/jobs/view/4487531752/) — SpaceX Super Intelligence
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $200,000 - $375,000 USD
+- 🕒 **Posted:** 2026-11-04
+
+### [Sr. Software Engineer, Kernels/CUDA (C++)](https://www.linkedin.com/jobs/view/4487529806/) — SpaceX Super Intelligence
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $200,000 - $375,000 USD
+- 🕒 **Posted:** 2026-11-04
+
+### [AWS Cloud & Platform Engineer III](https://www.linkedin.com/jobs/view/4486532107/) — V-Soft Consulting Group, Inc.
+- 📍 **Location:** Farmington Hills, MI
+- 🕒 **Posted:** 2026-11-04
+
+### [Sr. Full Stack Developer (.Net+ Azure)](https://www.linkedin.com/jobs/view/4485526826/) — LTM
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** $85,000.00/yr - $90,000.00/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [QA Automation Engineer IV](https://www.linkedin.com/jobs/view/4486525574/) — V-Soft Consulting Group, Inc.
+- 📍 **Location:** Farmington Hills, MI
+- 🕒 **Posted:** 2026-11-04
+
+### [Sr. Automation Engineer](https://www.linkedin.com/jobs/view/4487543302/) — BEPC Inc. - Business Excellence Professional Consulting
+- 📍 **Location:** Bedford, MA
+- 💰 **Salary:** $90.00/hr - $92.86/hr
+- 🕒 **Posted:** 2026-11-04
+
+### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4486540001/) — Ascendum System Private Limited
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $110,000 to $160,000
+- 🕒 **Posted:** 2026-11-04
+
+### [Sr. Software Test Engineer](https://www.linkedin.com/jobs/view/4486516967/) — Accede Solutions Inc (accedesolution.com)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-11-04
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4485545032/) — ALTEN Canada
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-11-04
