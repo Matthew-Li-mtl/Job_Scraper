@@ -4481,3 +4481,4 @@
 {"job_count": 123, "run_attempt": "1", "run_id": "42005317739", "timestamp": "2026-11-05T10:53:45Z", "workflow": "linkedin"}
 {"job_count": 131, "run_attempt": "1", "run_id": "42014947158", "timestamp": "2026-11-05T11:52:54Z", "workflow": "linkedin"}
 {"job_count": 78, "run_attempt": "1", "run_id": "42112925179", "timestamp": "2026-11-05T22:08:42Z", "workflow": "linkedin"}
+{"job_count": 1, "run_attempt": "1", "run_id": "42119605522", "timestamp": "2026-11-05T22:15:39Z", "workflow": "google_jobs"}
