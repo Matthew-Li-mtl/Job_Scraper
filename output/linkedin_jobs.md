@@ -1,204 +1,134 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-11-07 07:30 UTC*
+*Last updated: 2026-11-07 20:47 UTC*
 
-**44 new role(s)** since last run · 45 total in last 1h
+**30 new role(s)** since last run · 31 total in last 1h
 
-### [Software Engineer, Engineering Tools](https://www.linkedin.com/jobs/view/4480535025/) — Meridian Space
-- 📍 **Location:** Long Beach, CA
-- 🕒 **Posted:** 2026-11-07
-
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488700408/) — Deloitte
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4487619620/) — Ensense AI
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-11-07
 
-### [Software Engineer I to III, Digital Engineering](https://www.linkedin.com/jobs/view/4487378993/) — Archer
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $70,000.00/yr - $165,000.00/yr
+### [Website Developer Intern](https://www.linkedin.com/jobs/view/4488743324/) — Studio Alumbra
+- 📍 **Location:** Greenville-Spartanburg-Anderson, South Carolina Area
 - 🕒 **Posted:** 2026-11-07
 
-### [Platform Engineer, AI (Levels I, II, III)](https://www.linkedin.com/jobs/view/4487602114/) — Archer
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $120,000.00/yr - $235,000.00/yr
+### [Junior Application Developer](https://www.linkedin.com/jobs/view/4488725917/) — Communications Engineering Company (CEC)
+- 📍 **Location:** Hiawatha, IA
 - 🕒 **Posted:** 2026-11-07
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4488484890/) — Emerson
-- 📍 **Location:** Shakopee, MN
-- 💰 **Salary:** $80,000-$114,000 annually
+### [Entry-Level Software Developer](https://www.linkedin.com/jobs/view/4470034688/) — Epic
+- 📍 **Location:** Erie, PA
 - 🕒 **Posted:** 2026-11-07
 
-### [Flight Simulation Software Engineer](https://www.linkedin.com/jobs/view/4477054730/) — Haystack
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $90,100.00/yr - $121,900.00/yr
+### [Entry-Level Software Developer](https://www.linkedin.com/jobs/view/4470044080/) — Epic
+- 📍 **Location:** Allentown, PA
 - 🕒 **Posted:** 2026-11-07
 
-### [C, C++ Software Engineer II](https://www.linkedin.com/jobs/view/4486626119/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $124,000.00 - $171,000.00
+### [Software Engineer - Korean speaker only](https://www.linkedin.com/jobs/view/4487604941/) — JB Mobility
+- 📍 **Location:** Costa Mesa, CA
 - 🕒 **Posted:** 2026-11-07
 
-### [Dynamics 365 Mobile Application Developer](https://www.linkedin.com/jobs/view/4486609939/) — Technatomy Corporation
-- 📍 **Location:** Chantilly, VA
+### [ADAS Systems and Software Engineer II](https://www.linkedin.com/jobs/view/4487621563/) — KYYBA Inc
+- 📍 **Location:** Ann Arbor, MI
 - 🕒 **Posted:** 2026-11-07
 
-### [Data Engineer II](https://www.linkedin.com/jobs/view/4488494898/) — Cox Automotive Inc.
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $89,400.00 - $134,000.00
+### [Mid Level Software Developer, Hypervelocity/C++](https://www.linkedin.com/jobs/view/4444974609/) — Amentum
+- 📍 **Location:** Dahlgren, VA
+- 💰 **Salary:** $ 90,000 to $120,000
 - 🕒 **Posted:** 2026-11-07
 
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488498661/) — Deloitte
-- 📍 **Location:** Lake Mary, FL
-- 💰 **Salary:** $105,400 to $207,800
+### [Software Engineer - Digital Assets Trading](https://www.linkedin.com/jobs/view/4470331624/) — Millennium
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $175,000 to $250,000,
 - 🕒 **Posted:** 2026-11-07
 
-### [Software Engineer - Product ($180K - $280K + Equity) AI-Native Insurance Brokerage](https://www.linkedin.com/jobs/view/4487380616/) — CoffeeSpace
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180K - $280K
+### [GIS / Web Developer (Software Engineer II)](https://www.linkedin.com/jobs/view/4488740393/) — ITegrity, Inc. - A trusted Technology, Engineering, and Management Services Provider
+- 📍 **Location:** Silver Spring, MD
 - 🕒 **Posted:** 2026-11-07
 
-### [Software Engineer – Platform (SWE1) [D.26.0201]](https://www.linkedin.com/jobs/view/4488497580/) — Dover Networks LLC
-- 📍 **Location:** Maryland, United States
-- 💰 **Salary:** $163k-$178k per year
+### [Web Software Developer (UI)](https://www.linkedin.com/jobs/view/4444984090/) — Amentum
+- 📍 **Location:** Vienna, VA
+- 💰 **Salary:** $135,000 - $145,000
 - 🕒 **Posted:** 2026-11-07
 
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4487399543/) — Archer
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $78,300.00/yr - $113,550.00/yr
+### [Mid-level Software Developer](https://www.linkedin.com/jobs/view/4488741408/) — deciBel Research, Inc.
+- 📍 **Location:** Huntsville, AL
 - 🕒 **Posted:** 2026-11-07
 
-### [Associate, Application Engineer III](https://www.linkedin.com/jobs/view/4487384861/) — Archer
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,131.00/yr - $175,000.00/yr
+### [AI Machine Learning Engineer 1-KR-7455](https://www.linkedin.com/jobs/view/4488744346/) — Onyx Point, LLC.
+- 📍 **Location:** Hanover, MD
+- 💰 **Salary:** $78,000 to $250,000 per year
 - 🕒 **Posted:** 2026-11-07
 
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488488942/) — Deloitte
-- 📍 **Location:** Mechanicsburg, PA
-- 💰 **Salary:** $105,400 to $207,800
-- 🕒 **Posted:** 2026-11-07
-
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488711018/) — Deloitte
-- 📍 **Location:** Gilbert, AZ
-- 💰 **Salary:** $105,400 to $207,800
-- 🕒 **Posted:** 2026-11-07
-
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488496696/) — Deloitte
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $105,400 to $207,800
-- 🕒 **Posted:** 2026-11-07
-
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488495831/) — Deloitte
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $105,400 to $207,800
-- 🕒 **Posted:** 2026-11-07
-
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488711017/) — Deloitte
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $105,400 to $207,800
-- 🕒 **Posted:** 2026-11-07
-
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488493799/) — Deloitte
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $105,400 to $207,800
-- 🕒 **Posted:** 2026-11-07
-
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488489907/) — Deloitte
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $105,400 to $207,800
-- 🕒 **Posted:** 2026-11-07
-
-### [AEM Front End Developer](https://www.linkedin.com/jobs/view/4488080757/) — Capgemini
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $67,733 to $108,811 /yearly
-- 🕒 **Posted:** 2026-11-07
-
-### [Software Developer III](https://www.linkedin.com/jobs/view/4486618634/) — GAMA-1 Technologies
-- 📍 **Location:** Greenbelt, MD
-- 🕒 **Posted:** 2026-11-07
-
-### [Java Developer, Software Engineering, Associate– Regulatory Reporting](https://www.linkedin.com/jobs/view/4487388869/) — Archer
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $132,500.00/yr - $162,000.00/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [Software Developer III](https://www.linkedin.com/jobs/view/4486611760/) — GAMA-1 Technologies
-- 📍 **Location:** Greenbelt, MD
-- 🕒 **Posted:** 2026-11-07
-
-### [Software Engineer III - Performance and Resiliency Engineering (Consumer & Community Banking)](https://www.linkedin.com/jobs/view/4487378994/) — Archer
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $114,000.00/yr - $155,000.00/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [R&D Software Engineer](https://www.linkedin.com/jobs/view/4444637361/) — Broadcom
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-11-07
-
-### [Software Engineer (Azure)](https://www.linkedin.com/jobs/view/4487387554/) — UppStrive
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-11-07
-
-### [Foundation Model Data Engineer](https://www.linkedin.com/jobs/view/4471224352/) — Sciforium
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $155,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488496703/) — Deloitte
-- 📍 **Location:** Kansas City, MO
-- 🕒 **Posted:** 2026-11-07
-
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488706146/) — Deloitte
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-11-07
-
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488491835/) — Deloitte
-- 📍 **Location:** Cincinnati, OH
-- 🕒 **Posted:** 2026-11-07
-
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488488944/) — Deloitte
+### [Entry-Level Software Developer](https://www.linkedin.com/jobs/view/4470043134/) — Epic
 - 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-11-07
 
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488488948/) — Deloitte
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-11-07
-
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488490876/) — Deloitte
+### [Application Engineer](https://www.linkedin.com/jobs/view/4488740403/) — Shrive Technologies
 - 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-11-07
 
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488702344/) — Deloitte
-- 📍 **Location:** Stamford, CT
+### [Data Engineer – Customer Data Platform (SQL/Python)](https://www.linkedin.com/jobs/view/4487554129/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $54.00/hr - $61.00/hr
 - 🕒 **Posted:** 2026-11-07
 
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488711021/) — Deloitte
-- 📍 **Location:** Denver, CO
+### [Entry-Level Software Developer](https://www.linkedin.com/jobs/view/4470032661/) — Epic
+- 📍 **Location:** Dayton, OH
 - 🕒 **Posted:** 2026-11-07
 
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488710053/) — Deloitte
-- 📍 **Location:** Greater Indianapolis
+### [Backend Software Engineer - Platforms](https://www.linkedin.com/jobs/view/4487610773/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $162000 - $387600 annually
 - 🕒 **Posted:** 2026-11-07
 
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488700405/) — Deloitte
-- 📍 **Location:** Minneapolis, MN
+### [Machine Learning Engineer 3](https://www.linkedin.com/jobs/view/4480845434/) — Capital One
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $161,800 - $184,600
 - 🕒 **Posted:** 2026-11-07
 
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488704338/) — Deloitte
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $105,400 to $207,800
+### [API Developer](https://www.linkedin.com/jobs/view/4471815088/) — Kaleidoscope Innovation
+- 📍 **Location:** Detroit, MI
+- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-11-07
 
-### [Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education](https://www.linkedin.com/jobs/view/4488705209/) — Deloitte
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $105,400 to $207,800
+### [Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start](https://www.linkedin.com/jobs/view/4488734444/) — ByteDance
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $42.75- $42.75
 - 🕒 **Posted:** 2026-11-07
 
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488708088/) — Deloitte
-- 📍 **Location:** Tempe, AZ
+### [Sr. Specialist, Application Developer](https://www.linkedin.com/jobs/view/4463707763/) — L3Harris Technologies
+- 📍 **Location:** Palm Bay, FL
 - 🕒 **Posted:** 2026-11-07
 
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488711015/) — Deloitte
-- 📍 **Location:** Miami, FL
+### [Entry-Level Software Developer](https://www.linkedin.com/jobs/view/4470042193/) — Epic
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-11-07
 
-### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4488709068/) — Deloitte
+### [Full Stack Engineer 4 (ATM)](https://www.linkedin.com/jobs/view/4472004916/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $197,300 - $225,100
+- 🕒 **Posted:** 2026-11-07
+
+### [Software Engineer (HYBRID) with Security Clearance](https://www.linkedin.com/jobs/view/4487608858/) — Infinity Systems Engineering
+- 📍 **Location:** Colorado Springs, CO
+- 🕒 **Posted:** 2026-11-07
+
+### [Node.js Developer](https://www.linkedin.com/jobs/view/4487605935/) — InfoDyne Solutions, LLC
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-11-07
+
+### [Software Engineer (Full Stack & AI)](https://www.linkedin.com/jobs/view/4487628004/) — The Parmer Group
+- 📍 **Location:** Harrisburg, PA
+- 🕒 **Posted:** 2026-11-07
+
+### [Software Engineer with Security Clearance](https://www.linkedin.com/jobs/view/4487605941/) — Independent Software
+- 📍 **Location:** Annapolis Junction, MD
+- 🕒 **Posted:** 2026-11-07
+
+### [UI React Developer](https://www.linkedin.com/jobs/view/4487610819/) — InfoDyne Solutions, LLC
 - 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-11-07
+
+### [SDET with Python/ AI experience](https://www.linkedin.com/jobs/view/4487609809/) — InfoDyne Solutions, LLC
+- 📍 **Location:** Alpharetta, GA
 - 🕒 **Posted:** 2026-11-07
