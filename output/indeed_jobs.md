@@ -1,6 +1,11 @@
 # 🟦 Indeed — Software Engineering Roles
-*Last updated: 2026-11-08 09:36 UTC*
+*Last updated: 2026-11-08 20:16 UTC*
 
-**0 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Hardware/System/Software Engineers](https://www.indeed.com/viewjob?jk=c2cc53d8d707700d) — Rayocomm
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $70k–$100k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-11-08
