@@ -1,65 +1,45 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-11-08 07:04 UTC*
+*Last updated: 2026-11-08 20:13 UTC*
 
-**14 new role(s)** since last run · 15 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Founding Software Engineer (up to $200k)](https://www.linkedin.com/jobs/view/4488751885/) — Dex
+### [Data Engineer](https://www.linkedin.com/jobs/view/4488805240/) — CGS Federal (Contact Government Services)
 - 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $112,597.33 - $152,810.66
 - 🕒 **Posted:** 2026-11-08
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4487632475/) — Haystack
-- 📍 **Location:** Colorado, United States
-- 💰 **Salary:** $80,000 - $120,000 per year
+### [Software Engineer, Specs C++, Level 5](https://www.linkedin.com/jobs/view/4454335508/) — Snap Inc.
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $209,000-$313,000 annually
 - 🕒 **Posted:** 2026-11-08
 
-### [Automation Engineer I/II - Discovery Oncology](https://www.linkedin.com/jobs/view/4488770461/) — BioSpace
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $72,000 - $189,200
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4488804272/) — Jorie AI
+- 📍 **Location:** Oak Brook, IL
 - 🕒 **Posted:** 2026-11-08
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4486675580/) — ŌURA
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $151,300-178,000
-- 🕒 **Posted:** 2026-11-08
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4488757860/) — Torentify
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000–$200,000,
-- 🕒 **Posted:** 2026-11-08
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4486636888/) — Haystack
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-11-08
-
-### [Machine Learning Engineer, Data Curation - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4487628705/) — NVIDIA
-- 📍 **Location:** Redmond, WA
-- 🕒 **Posted:** 2026-11-08
-
-### [Machine Learning Engineer, Data Curation - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4487647232/) — NVIDIA
+### [Backend Software Engineer, Global E-commerce - Seller Business - Global E-Commerce US](https://www.linkedin.com/jobs/view/4487670036/) — TikTok
 - 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $153900 - $300960 annually
 - 🕒 **Posted:** 2026-11-08
 
-### [Machine Learning Engineer, Data Curation - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4487645309/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Data Engineer](https://www.linkedin.com/jobs/view/4488800420/) — Gear Partners
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-11-08
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487630493/) — Haystack
-- 📍 **Location:** Pennsylvania, United States
+### [Data Engineer- Greater Tampa](https://www.linkedin.com/jobs/view/4488807168/) — MaxHealth
+- 📍 **Location:** Tampa, FL
 - 🕒 **Posted:** 2026-11-08
 
-### [Full-Stack Web Developer](https://www.linkedin.com/jobs/view/4488774187/) — Torentify
-- 📍 **Location:** Chapel Hill, NC
+### [Full Stack Developer](https://www.linkedin.com/jobs/view/4444980317/) — Amentum
+- 📍 **Location:** Fort Gordon, GA
+- 💰 **Salary:** $215,000 - $238,000
 - 🕒 **Posted:** 2026-11-08
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4487640360/) — Haystack
-- 📍 **Location:** Maryland, United States
+### [Enterprise - Software Engineer - REST, Agile, Linux](https://www.linkedin.com/jobs/view/4488803315/) — Erias Ventures
+- 📍 **Location:** Columbia, MD
+- 💰 **Salary:** $150,000 - $275,000
 - 🕒 **Posted:** 2026-11-08
 
-### [QA Automation Engineer](https://www.linkedin.com/jobs/view/4488762727/) — Torentify
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-11-08
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487632462/) — Haystack
-- 📍 **Location:** Washington, United States
-- 💰 **Salary:** $107,900 - $195,050 per year
+### [HBITS-08-15087-Software Developer-Expert](https://www.linkedin.com/jobs/view/4488814000/) — Knowledge Builders Inc
+- 📍 **Location:** Albany, NY
 - 🕒 **Posted:** 2026-11-08
