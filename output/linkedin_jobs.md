@@ -1,109 +1,124 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-11-11 02:29 UTC*
+*Last updated: 2026-11-11 09:12 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**25 new role(s)** since last run · 25 total in last 1h
 
-### [EGSE/Avionics Test Software Engineer](https://www.linkedin.com/jobs/view/4485624308/) — Quantum Space
-- 📍 **Location:** Hawthorne, CA
-- 💰 **Salary:** $110,000 to $160,000
+### [Junior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4488677190/) — Emonics LLC
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineering Intern, Frontend (Summer 2027)](https://www.linkedin.com/jobs/view/4489641879/) — Notion
+### [Web Developer 1 with Security Clearance](https://www.linkedin.com/jobs/view/4487895647/) — Avid Technology Professionals
+- 📍 **Location:** Annapolis Junction, MD
+- 🕒 **Posted:** 2026-11-11
+
+### [Embedded Software Test Engineer](https://www.linkedin.com/jobs/view/4488204374/) — ComTec Information Systems (IT)
+- 📍 **Location:** Murrysville, PA
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488678281/) — Haystack
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $143,700 - $194,400 per year
+- 🕒 **Posted:** 2026-11-11
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4487897476/) — Veritis Group Inc
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineering Intern, Frontend (Summer 2027)](https://www.linkedin.com/jobs/view/4489637938/) — Notion
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488659984/) — Haystack
+- 📍 **Location:** Washington, United States
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4487801971/) — AeroFlux Innovations
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $26.00–$35.00 per hour
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488657982/) — Haystack
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)](https://www.linkedin.com/jobs/view/4487862657/) — Canonical
-- 📍 **Location:** New York, United States
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488667712/) — Haystack
+- 📍 **Location:** Santa Clara County, CA
+- 💰 **Salary:** $165,200 - $223,600 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [IT Application Engineer I, Amazon Leo, ALM365, Amazon Leo](https://www.linkedin.com/jobs/view/4487870158/) — Amazon
-- 📍 **Location:** Bellevue, WA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488660910/) — Haystack
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Full Stack Engineer, Business Systems](https://www.linkedin.com/jobs/view/4489670855/) — Verkada
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $125,000—$160,000 USD
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488669715/) — Haystack
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $165,200 - $223,600 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Test & Automation Engineer  II](https://www.linkedin.com/jobs/view/4485645154/) — Quantum Space
-- 📍 **Location:** Rockville, MD
-- 💰 **Salary:** $100,000-140,000
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488667697/) — Haystack
+- 📍 **Location:** Santa Clara County, CA
+- 💰 **Salary:** $165,200 - $223,600 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4489681207/) — Pacific Gas and Electric Company
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $49.04 to $77.88
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488657945/) — Haystack
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4487877138/) — Intelligems
-- 📍 **Location:** Denver, CO
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488668666/) — Haystack
+- 📍 **Location:** Washington, United States
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [2027 Graduate - Software Developer or RF Systems Engineer](https://www.linkedin.com/jobs/view/4489664927/) — Johns Hopkins Applied Physics Laboratory
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $85,000.00/yr - $165,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488657935/) — Haystack
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $165,200 - $223,600 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Developer, Service Now, FT, Days](https://www.linkedin.com/jobs/view/4489683007/) — Prisma Health
-- 📍 **Location:** Greenville, SC
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488680185/) — Haystack
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [EGSE/Avionics Test Software Engineer](https://www.linkedin.com/jobs/view/4485621449/) — Quantum Space
-- 📍 **Location:** Rockville, MD
-- 💰 **Salary:** $110,000 to $160,000
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488673616/) — Haystack
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Behavior Planning Software Engineer](https://www.linkedin.com/jobs/view/4487860639/) — Aurora
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $139,000.00/yr - $223,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488663748/) — Haystack
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Enterprise Analytics Data Engineer](https://www.linkedin.com/jobs/view/4487878021/) — Armanino
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $90,000-$125,000
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488665820/) — Haystack
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $143,700 - $194,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer, AWS Applied AI Solutions](https://www.linkedin.com/jobs/view/4487870196/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
+### [Automation Engineer](https://www.linkedin.com/jobs/view/4488677322/) — Haystack
+- 📍 **Location:** San Joaquin County, CA
+- 💰 **Salary:** $114,000 - $148,200 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer II, AWS DynamoDB](https://www.linkedin.com/jobs/view/4487866275/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
+### [Full Stack Developer with Enterprise Portal Exp - $104 CTC - HYBRID (Locals to Austin area Only)](https://www.linkedin.com/jobs/view/4488210050/) — Chandra Technologies, Inc
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-11-11
 
-### [812222 Software Engineer $280,000.00](https://www.linkedin.com/jobs/view/4488649409/) — B4Corp
-- 📍 **Location:** Bethesda, MD
+### [Sr. Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4488679129/) — Invisible Technologies
+- 📍 **Location:** Hudson County, NJ
+- 💰 **Salary:** $50.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-11-11
 
-### [812299 Software Engineer $300,000.00](https://www.linkedin.com/jobs/view/4488651199/) — B4Corp
-- 📍 **Location:** Chantilly, VA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488682079/) — Haystack
+- 📍 **Location:** Washington, United States
+- 💰 **Salary:** $170,000.00 - $195,000.00 /Yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer, AWS Applied AI Solutions](https://www.linkedin.com/jobs/view/4487866285/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488661968/) — Haystack
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $170,000 - $190,000 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer, AWS Applied AI Solutions](https://www.linkedin.com/jobs/view/4487863447/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488680236/) — Haystack
+- 📍 **Location:** Massachusetts, United States
+- 💰 **Salary:** $168,100 - $227,400 per year
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer, AWS Applied AI Solutions](https://www.linkedin.com/jobs/view/4487853870/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-11-11
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487813693/) — ShrinQ Consulting Group Inc
-- 📍 **Location:** Jacksonville, FL
-- 🕒 **Posted:** 2026-11-11
-
-### [System Development Engineer, AFT - Platform Engineering & Services](https://www.linkedin.com/jobs/view/4487855841/) — Amazon
-- 📍 **Location:** Bellevue, WA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4488662882/) — Haystack
+- 📍 **Location:** San Diego Metropolitan Area
+- 💰 **Salary:** $168,100 - $227,400 per year
 - 🕒 **Posted:** 2026-11-11
