@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-08 20:27 UTC",
-  "total": 1,
+  "scraped_at": "2026-11-12 22:16 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -9,6 +9,18 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536768",
       "date_posted": "2026-11-02",
+      "salary": "$4935.00 - $8740.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "SAP Application Developer",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537046",
+      "date_posted": "2026-11-04",
       "salary": "$4935.00 - $8740.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
