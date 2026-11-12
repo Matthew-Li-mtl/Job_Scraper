@@ -1,5 +1,5 @@
 # 🏛 CalOpps — California Local-Agency Software Engineering Roles
-*Last updated: 2026-11-08 20:41 UTC*
+*Last updated: 2026-11-12 22:23 UTC*
 
 **0 new role(s)** since last run · 0 total in recent CalOpps postings
 
