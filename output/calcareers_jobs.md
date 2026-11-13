@@ -1,5 +1,5 @@
 # 🏛 CalCareers — California State Software Engineering Roles
-*Last updated: 2026-11-12 22:16 UTC*
+*Last updated: 2026-11-13 22:02 UTC*
 
 **0 new role(s)** since last run · 2 total in current CalCareers postings
 
