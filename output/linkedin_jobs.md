@@ -1,87 +1,67 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-11-15 00:12 UTC*
+*Last updated: 2026-11-15 06:48 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)](https://www.linkedin.com/jobs/view/4489350972/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-14
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4488935656/) — BeaconFire Inc.
+- 📍 **Location:** Pennsylvania, United States
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-11-15
 
-### [Associate Software Engineer- Billing Platform](https://www.linkedin.com/jobs/view/4484905398/) — T-Mobile
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $73,590 - $132,660
-- 🕒 **Posted:** 2026-11-14
-
-### [Application Developer 1/2/3 (PCN 060366M)](https://www.linkedin.com/jobs/view/4489354695/) — State of Alaska
-- 📍 **Location:** Anchorage, AK
-- 🕒 **Posted:** 2026-11-14
-
-### [Associate, R&D Tax Credits - Software Engineer](https://www.linkedin.com/jobs/view/4490210087/) — KPMG US
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-11-14
-
-### [Associate, R&D Tax Credits - Software Engineer](https://www.linkedin.com/jobs/view/4490203472/) — KPMG US
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-11-14
-
-### [Software Engineer II, Autonomy Behaviors (R5202)](https://www.linkedin.com/jobs/view/4491098717/) — Shield
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-11-14
-
-### [Java Full Stack Developer](https://www.linkedin.com/jobs/view/4489372001/) — Infosys
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-11-14
-
-### [Software Engineer - Data Center Tooling](https://www.linkedin.com/jobs/view/4489362442/) — Lambda
+### [Product Application Engineer](https://www.linkedin.com/jobs/view/4490212587/) — Astera Labs
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $230,000.00/yr - $340,000.00/yr
-- 🕒 **Posted:** 2026-11-14
+- 🕒 **Posted:** 2026-11-15
 
-### [Software Developer – Japanese Bilingual](https://www.linkedin.com/jobs/view/4481777727/) — Pasona N A, Inc.
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $80,000–$110,000 per year
-- 🕒 **Posted:** 2026-11-14
+### [2027 - Associate Software Engineer - McClellan CA](https://www.linkedin.com/jobs/view/4491222646/) — Northrop Grumman
+- 📍 **Location:** McClellan Park, CA
+- 💰 **Salary:** $ 76,200 -$114,400
+- 🕒 **Posted:** 2026-11-15
 
-### [Data Engineer, Finance (R6329)](https://www.linkedin.com/jobs/view/4491200615/) — Shield
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-11-14
+### [C, C++ Software Engineer II](https://www.linkedin.com/jobs/view/4489380092/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $124,000.00 - $171,000.00
+- 🕒 **Posted:** 2026-11-15
 
-### [Software Test Automation Engineer (R4719)](https://www.linkedin.com/jobs/view/4491206346/) — Shield
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-11-14
+### [Software Developer](https://www.linkedin.com/jobs/view/4490223166/) — StratasCorp Technologies
+- 📍 **Location:** Norfolk, VA
+- 💰 **Salary:** $130,000 to $160,000 annually
+- 🕒 **Posted:** 2026-11-15
 
-### [Software Engineer, Networking & OS (R6362)](https://www.linkedin.com/jobs/view/4491204409/) — Shield
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-11-14
+### [Python Software Engineer III](https://www.linkedin.com/jobs/view/4491212675/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-11-15
 
-### [Full Stack Developer (36196)](https://www.linkedin.com/jobs/view/4489892957/) — Myticas Consulting
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $80,000 – $90,000 annually
-- 🕒 **Posted:** 2026-11-14
+### [Python Java AWS Software Engineer III (ML) - Agentic Treasury](https://www.linkedin.com/jobs/view/4491228043/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-11-15
 
-### [Embedded Software Developer – Diagnostics (35783)](https://www.linkedin.com/jobs/view/4490207161/) — Myticas Consulting
-- 📍 **Location:** Murray Hill, NJ
-- 🕒 **Posted:** 2026-11-14
+### [Application Engineer – Semiconductor 3D X-ray Solutions](https://www.linkedin.com/jobs/view/4489369609/) — Applied Materials
+- 📍 **Location:** Benicia, CA
+- 💰 **Salary:** $128,000.00 - $176,000.00
+- 🕒 **Posted:** 2026-11-15
 
-### [Software Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4491213108/) — Cisco
-- 📍 **Location:** Durham, NC
-- 💰 **Salary:** $139,300.00 to $203,600.00
-- 🕒 **Posted:** 2026-11-14
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4488944398/) — BeaconFire Inc.
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-11-15
 
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4491091989/) — CDK Global
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $120,000 - $150,000
-- 🕒 **Posted:** 2026-11-14
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4488931822/) — BeaconFire Inc.
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-11-15
 
-### [Ground Control Station (GCS) Software Engineer (R4758)](https://www.linkedin.com/jobs/view/4491091991/) — Shield
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-11-14
+### [Java Full Stack Developer](https://www.linkedin.com/jobs/view/4491221695/) — Envision Technology Solutions
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-11-15
 
-### [Software Engineer (up to $250k)](https://www.linkedin.com/jobs/view/4491093972/) — Dex
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-14
+### [Software Engineer](https://www.linkedin.com/jobs/view/4489381075/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $179,500.00 - $246,500.00
+- 🕒 **Posted:** 2026-11-15
 
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4491215012/) — CDK Global
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $120,000 - $150,000
-- 🕒 **Posted:** 2026-11-14
+### [Software Engineer](https://www.linkedin.com/jobs/view/4489369608/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $152,000.00 - $209,000.00
+- 🕒 **Posted:** 2026-11-15
