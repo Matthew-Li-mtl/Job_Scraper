@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Software Engineering Roles
-*Last updated: 2026-11-15 21:17 UTC*
+*Last updated: 2026-11-16 01:24 UTC*
 
 **0 new role(s)** since last run · 1 total in last 24h
 
