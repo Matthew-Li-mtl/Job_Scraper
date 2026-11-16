@@ -1,5 +1,5 @@
 # 🟦 Indeed — Software Engineering Roles
-*Last updated: 2026-11-16 00:39 UTC*
+*Last updated: 2026-11-16 07:29 UTC*
 
 **0 new role(s)** since last run · 4 total in last 24h
 
