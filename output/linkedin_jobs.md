@@ -1,39 +1,35 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-11-16 07:24 UTC*
+*Last updated: 2026-11-16 08:13 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**7 new role(s)** since last run · 15 total in last 1h
 
-### [Systems/Software Engineer I](https://www.linkedin.com/jobs/view/4490535723/) — Hewlett Packard Enterprise
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, GPU Performance](https://www.linkedin.com/jobs/view/4489720553/) — HeyGen
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-11-16
 
-### [Systems Software Engineer](https://www.linkedin.com/jobs/view/4491501102/) — Canvas
-- 📍 **Location:** Eglin Air Force Base, FL
+### [Web Developer](https://www.linkedin.com/jobs/view/4489734060/) — Crimson Phoenix
+- 📍 **Location:** Chantilly, VA
+- 💰 **Salary:** $103,800-$218,100 per year
 - 🕒 **Posted:** 2026-11-16
 
-### [Front-End React Developer-W2](https://www.linkedin.com/jobs/view/4489155522/) — SPECTRAFORCE
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $60.00/hr - $65.00/hr
+### [Web Services Application Engineer](https://www.linkedin.com/jobs/view/4489728171/) — Unissant
+- 📍 **Location:** Bethesda, MD
 - 🕒 **Posted:** 2026-11-16
 
-### [Application Developer](https://www.linkedin.com/jobs/view/4487013789/) — Southern Company
-- 📍 **Location:** Birmingham, AL
+### [Application Engineer, US Projects](https://www.linkedin.com/jobs/view/4468488877/) — HOLOPLOT
+- 📍 **Location:** Las Vegas, NM
 - 🕒 **Posted:** 2026-11-16
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4490255851/) — Haystack
-- 📍 **Location:** Washington, United States
-- 💰 **Salary:** $143,700 - $194,400 per year
+### [Automation Engineer](https://www.linkedin.com/jobs/view/4490261905/) — Haystack
+- 📍 **Location:** San Joaquin County, CA
+- 💰 **Salary:** $114,000 - $148,200 per year
 - 🕒 **Posted:** 2026-11-16
 
-### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4490270508/) — Domino's
-- 📍 **Location:** Ann Arbor, MI
+### [Full Stack Engineer - CDW Migration](https://www.linkedin.com/jobs/view/4489731108/) — Trilogy Federal
+- 📍 **Location:** Arlington, VA
 - 🕒 **Posted:** 2026-11-16
 
-### [Software Engineer III - Cloud Security - FCS Workflow (Hybrid)](https://www.linkedin.com/jobs/view/4489712847/) — CrowdStrike
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $120,000 - $185,000 per year
-- 🕒 **Posted:** 2026-11-16
-
-### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4491502011/) — Brown & Brown
-- 📍 **Location:** Plano, TX
+### [Software Engineer](https://www.linkedin.com/jobs/view/4489735055/) — Nightwing
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $64,000-$128,000
 - 🕒 **Posted:** 2026-11-16
