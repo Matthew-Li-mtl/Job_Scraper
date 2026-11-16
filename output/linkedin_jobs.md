@@ -1,102 +1,120 @@
 # 🔥 LinkedIn — Software Engineering Roles
-*Last updated: 2026-11-15 20:38 UTC*
+*Last updated: 2026-11-16 00:35 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Junior Software Engineer (IT)](https://www.linkedin.com/jobs/view/4489395730/) — Amphenol
-- 📍 **Location:** Liberty Lake, WA
-- 💰 **Salary:** $75,000 - $90,000
+### [C, C++ Software Engineer II](https://www.linkedin.com/jobs/view/4489712368/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $124,000.00 - $171,000.00
+- 🕒 **Posted:** 2026-11-16
+
+### [Application Engineer – Semiconductor 3D X-ray Solutions](https://www.linkedin.com/jobs/view/4489713279/) — Applied Materials
+- 📍 **Location:** Benicia, CA
+- 💰 **Salary:** $128,000.00 - $176,000.00
+- 🕒 **Posted:** 2026-11-16
+
+### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4491272618/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $120,000 - $300,000/annual
+- 🕒 **Posted:** 2026-11-16
+
+### [Machine Learning Engineer, Destination & Special Behaviors, Self-Driving, Tesla SI](https://www.linkedin.com/jobs/view/4491278296/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $216,000 - $528,000/annual
+- 🕒 **Posted:** 2026-11-16
+
+### [Full Stack Software Engineer, Travel](https://www.linkedin.com/jobs/view/4490247518/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $347,000.00/yr - $385,000.00/yr
+- 🕒 **Posted:** 2026-11-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4489713285/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $179,500.00 - $246,500.00
+- 🕒 **Posted:** 2026-11-16
+
+### [Internship, Software Engineer, Infotainment Platforms Validation (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4491275422/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $46.00 - $58.00
+- 🕒 **Posted:** 2026-11-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4489704494/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $152,000.00 - $209,000.00
+- 🕒 **Posted:** 2026-11-16
+
+### [Software Engineer, Maps & Navigation Validation, Vehicle Software](https://www.linkedin.com/jobs/view/4491276426/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $140,000 - $252,000/annual
+- 🕒 **Posted:** 2026-11-16
+
+### [Internship, Software Engineer, Build & Simulation Platform (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4491269711/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $42.07 - $58.89
+- 🕒 **Posted:** 2026-11-16
+
+### [Sr. Software Engineer, Infrastructure, Manufacturing Quality](https://www.linkedin.com/jobs/view/4491263996/) — Tesla
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $140,000 - $252,000/annual
+- 🕒 **Posted:** 2026-11-16
+
+### [Software Engineer, Metrics, SI Evaluation](https://www.linkedin.com/jobs/view/4491279254/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $152,000 - $384,000/annual
+- 🕒 **Posted:** 2026-11-16
+
+### [Software Engineer, Geometric Vision, Tesla SI](https://www.linkedin.com/jobs/view/4491271626/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $216,000 - $528,000/annual
+- 🕒 **Posted:** 2026-11-16
+
+### [Automation Engineer I/II - Discovery Oncology](https://www.linkedin.com/jobs/view/4490251312/) — SLAS (Society for Laboratory Automation and Screening)
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $72,000 - $189,200
 - 🕒 **Posted:** 2026-11-15
 
-### [Software Engineer, US Life (2027 Permanent)](https://www.linkedin.com/jobs/view/4466416625/) — Munich Re
+### [Software Developer](https://www.linkedin.com/jobs/view/4490223166/) — StratasCorp Technologies
+- 📍 **Location:** Norfolk, VA
+- 💰 **Salary:** $130,000 to $160,000 annually
+- 🕒 **Posted:** 2026-11-15
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4490247437/) — Digital Waffle
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-11-15
+
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4489713262/) — Netic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-15
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4469684528/) — Autodesk
+- 📍 **Location:** Sheffield, TX
+- 🕒 **Posted:** 2026-11-15
+
+### [Software Engineer C# / .Net](https://www.linkedin.com/jobs/view/4488802554/) — eNGINE
+- 📍 **Location:** Munhall, PA
+- 🕒 **Posted:** 2026-11-15
+
+### [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4489706374/) — Cabana
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $125,000 to $145,000,
+- 💰 **Salary:** $150k–$220k
 - 🕒 **Posted:** 2026-11-15
 
-### [Associate Machine Learning Engineer, Recommendations](https://www.linkedin.com/jobs/view/4491255731/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $122574 - $259200 annually
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4490249342/) — Digital Waffle
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-11-15
 
-### [Entry-Level Software Developer](https://www.linkedin.com/jobs/view/3986117172/) — Epic
-- 📍 **Location:** Cape Coral, FL
+### [Software Engineer](https://www.linkedin.com/jobs/view/4490252150/) — Digital Waffle
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-11-15
 
-### [Entry-Level Software Developer](https://www.linkedin.com/jobs/view/3986116431/) — Epic
-- 📍 **Location:** Hialeah, FL
+### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4489396883/) — Netic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-15
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4491271177/) — Summit TRC
-- 📍 **Location:** Huntsville, AL
-- 🕒 **Posted:** 2026-11-15
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4489396683/) — River Valley Foods
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $75,000 - $97,000 per year
-- 🕒 **Posted:** 2026-11-15
-
-### [Software Engineer with DevOps - Colorado Springs, CO](https://www.linkedin.com/jobs/view/4491262568/) — Davidson Technologies
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-11-15
-
-### [Site Reliability Engineer, Applied Machine Learning - USDS (Night-Shift)](https://www.linkedin.com/jobs/view/4491250919/) — TikTok USDS Joint Venture
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $129960 - $246240 annually
-- 🕒 **Posted:** 2026-11-15
-
-### [Intelligent Automation / RPA Engineer / Software Engineer](https://www.linkedin.com/jobs/view/4491268329/) — Unissant
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-11-15
-
-### [Hybrid Full Stack Developer (Python & JavaScript)](https://www.linkedin.com/jobs/view/4489713034/) — Crimson Phoenix
-- 📍 **Location:** Springfield, VA
-- 💰 **Salary:** $160,000-$197,000 per year
-- 🕒 **Posted:** 2026-11-15
-
-### [Web Services Application Engineer](https://www.linkedin.com/jobs/view/4491260654/) — Unissant
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-11-15
-
-### [DevSecOps / CI-CD Engineer / Software Engineer](https://www.linkedin.com/jobs/view/4491260649/) — Unissant
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-11-15
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986116419/) — Epic
-- 📍 **Location:** Greensboro, NC
-- 🕒 **Posted:** 2026-11-15
-
-### [Automation Controls Software Engineer](https://www.linkedin.com/jobs/view/4489701415/) — The Boring Company
-- 📍 **Location:** Las Vegas, NV
-- 🕒 **Posted:** 2026-11-15
-
-### [Software Engineer III, Software Services (Applications)](https://www.linkedin.com/jobs/view/4489700500/) — Agility Robotics
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $144,000 —$225,000 USD
-- 🕒 **Posted:** 2026-11-15
-
-### [Automation Controls Software Engineer](https://www.linkedin.com/jobs/view/4489399577/) — The Boring Company
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-11-15
-
-### [Java Web Developer (Angular)](https://www.linkedin.com/jobs/view/4491263578/) — Strongbridge LLC
-- 📍 **Location:** Sterling, VA
-- 💰 **Salary:** $130,000 - $150,00
-- 🕒 **Posted:** 2026-11-15
-
-### [Software Engineer (Full Stack Focus)](https://www.linkedin.com/jobs/view/4489395784/) — Visionist, Inc.
-- 📍 **Location:** Fort Meade, MD
-- 💰 **Salary:** $200,000 - $280,000
-- 🕒 **Posted:** 2026-11-15
-
-### [Web Software Developer](https://www.linkedin.com/jobs/view/4489713088/) — Unissant
-- 📍 **Location:** Bethesda, MD
-- 🕒 **Posted:** 2026-11-15
-
-### [Cloud Data Engineer (AWS & Python) - HBITS-08-15087](https://www.linkedin.com/jobs/view/4490240553/) — Greycell Labs Inc
-- 📍 **Location:** Albany, NY
-- 🕒 **Posted:** 2026-11-15
-
-### [System Administrator - Platform Engineer](https://www.linkedin.com/jobs/view/4489708183/) — Electrosoft
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $105,000 —$120,000 USD
+### [Dir/Sr. Dir - Lab Automation Engineer, Discovery Oncology](https://www.linkedin.com/jobs/view/4490245610/) — SLAS (Society for Laboratory Automation and Screening)
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000 - $297,000
 - 🕒 **Posted:** 2026-11-15
