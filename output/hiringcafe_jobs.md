@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Software Engineering Roles
-*Last updated: 2026-11-16 01:39 UTC*
+*Last updated: 2026-11-16 09:06 UTC*
 
 **0 new role(s)** since last run · 17 total in last 30d
 
