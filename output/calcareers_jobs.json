@@ -1,32 +1,7 @@
 {
-  "scraped_at": "2026-11-15 21:04 UTC",
-  "total": 2,
+  "scraped_at": "2026-11-17 23:34 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Franchise Tax Board",
-      "title": "Data Engineer",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536768",
-      "date_posted": "2026-11-02",
-      "salary": "$4935.00 - $8740.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Water Resources",
-      "title": "SAP Application Developer",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537046",
-      "date_posted": "2026-11-04",
-      "salary": "$4935.00 - $8740.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
