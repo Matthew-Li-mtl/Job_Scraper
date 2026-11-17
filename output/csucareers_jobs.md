@@ -1,5 +1,5 @@
 # 🎓 CSU Careers — California State University Software Engineering Roles
-*Last updated: 2026-11-15 21:21 UTC*
+*Last updated: 2026-11-17 00:36 UTC*
 
 **0 new role(s)** since last run · 0 total in current CSU Careers postings
 
